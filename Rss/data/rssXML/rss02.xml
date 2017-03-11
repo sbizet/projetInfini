@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0" xml:base="https://www.mediapart.fr/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Mediapart</title>
+        <link>https://www.mediapart.fr/</link>
+        <description>Mediapart</description>
+        <language>fr</language>
+            <item>
+                <title><![CDATA[Dans son livre, Vallaud-Belkacem se raconte moins lisse qu'elle ne paraît]]></title>
+                <link>https://www.mediapart.fr/journal/france/100317/dans-son-livre-vallaud-belkacem-se-raconte-moins-lisse-quelle-ne-parait</link>
+                <description><![CDATA[  Najat Vallaud-Belkacem © Reuters La ministre de l’éducation nationale Najat Vallaud-Belkacem publie, en pleine campagne présidentielle, un livre au ton très personnel (La vie a plus d’imagination que toi, Grasset), parfois pertinent, dans lequel elle tente de se défaire de son image lisse. Et où elle défend le bilan du quinquennat en matière éducative. ]]></description>
+                <comments>https://www.mediapart.fr/journal/france/100317/dans-son-livre-vallaud-belkacem-se-raconte-moins-lisse-quelle-ne-parait/commentaires</comments>
+                <category domain="https://www.mediapart.fr/journal/france">France</category>
+                <category domain="https://www.mediapart.fr/journal/mot-cle/education">éducation</category>
+                <category domain="https://www.mediapart.fr/journal/mot-cle/najat-vallaud-belkacem">Najat Vallaud-Belkacem</category>
+                <category domain="https://www.mediapart.fr/journal/mot-cle/politique">politique</category>
+                <category domain="https://www.mediapart.fr/journal/mot-cle/recit">récit</category>
+                <pubDate>2017-03-10T18:14:50+01:00</pubDate>
+                <dc:creator>Faïza Zerouala</dc:creator>
+                <guid isPermaLink="false">675004 at https://www.mediapart.fr/</guid>
+            </item>
+            <item>
+                <title><![CDATA[Dystopies, pour le pire]]></title>
+                <link>https://www.mediapart.fr/journal/culture-idees/100317/dystopies-pour-le-pire</link>
+                <description><![CDATA[Lorsque la conseillère Kellyanne Conway a parlé de « faits alternatifs » pour justifier une contre-vérité manifeste assénée par l’administration Trump, elle a fait bondir les ventes de 1984 d’Orwell. À l’occasion de la retraduction en France de Nous d’Evgueni Zamiatine, source d’inspiration de 1984, retour sur notre goût actuel pour les dystopies.]]></description>
+                <comments>https://www.mediapart.fr/journal/culture-idees/100317/dystopies-pour-le-pire/commentaires</comments>
+                <category domain="https://www.mediapart.fr/journal/culture-idees">Culture-Idées</category>
+                <category domain="https://www.mediapart.fr/journal/mot-cle/evgueni-zamiatine">Evgueni Zamiatine</category>
+                <category domain="https://www.mediapart.fr/journal/mot-cle/georges-orwell">Georges Orwell</category>
+                <pubDate>2017-03-10T18:08:42+01:00</pubDate>
+                <dc:creator>Lise Wajeman</dc:creator>
+                <guid isPermaLink="false">675035 at https://www.mediapart.fr/</guid>
+            </item>
+            <item>
+                <title><![CDATA[Programme Macron: un copier-coller des recommandations européennes]]></title>
+                <link>https://www.mediapart.fr/journal/france/100317/programme-macron-un-copier-coller-des-recommandations-europeennes</link>
+                <description><![CDATA[Finances publiques, retraites, chômage, droit du travail et même grands projets comme le développement numérique, toutes les réformes structurelles que le Conseil européen demande à la France depuis plusieurs années se retrouvent dans le programme d’Emmanuel Macron. Mot pour mot. ]]></description>
+                <comments>https://www.mediapart.fr/journal/france/100317/programme-macron-un-copier-coller-des-recommandations-europeennes/commentaires</comments>
+                <category domain="https://www.mediapart.fr/journal/france">France</category>
+                <category domain="https://www.mediapart.fr/journal/economie">Economie</category>
+                <category domain="https://www.mediapart.fr/journal/mot-cle/austerite">austérité</category>
+                <category domain="https://www.mediapart.fr/journal/mot-cle/chomage">chômage</category>
+                <category domain="https://www.mediapart.fr/journal/mot-cle/droit-du-travail">droit du travail</category>
+                <category domain="https://www.mediapart.fr/journal/mot-cle/emmanuel-macron">Emmanuel Macron</category>
+                <category domain="https://www.mediapart.fr/journal/mot-cle/finances-publiques">finances publiques</category>
+                <category domain="https://www.mediapart.fr/journal/mot-cle/francois-hollande">François Hollande</category>
+                <category domain="https://www.mediapart.fr/journal/mot-cle/programme-economique">programme économique</category>
+                <category domain="https://www.mediapart.fr/journal/mot-cle/reformes-structurelles">réformes structurelles</category>
+                <category domain="https://www.mediapart.fr/journal/mot-cle/retraite">retraite</category>
+                <category domain="https://www.mediapart.fr/journal/mot-cle/social">social</category>
+                <pubDate>2017-03-10T18:00:06+01:00</pubDate>
+                <dc:creator>martine orange</dc:creator>
+                <guid isPermaLink="false">674620 at https://www.mediapart.fr/</guid>
+            </item>
+            <item>
+                <title><![CDATA[Au Sahel, les principaux groupes djihadistes fusionnent et se renforcent]]></title>
+                <link>https://www.mediapart.fr/journal/international/100317/au-sahel-les-principaux-groupes-djihadistes-fusionnent-et-se-renforcent</link>
+                <description><![CDATA[Dans une vidéo diffusée le 2 mars, les groupes djihadistes Ansar Dine, Aqmi et Al-Morabitoune ont annoncé leur fusion et se placent sous la tutelle d’Al-Qaïda. Malgré les forces de l’ONU et l’opération française Barkhane, ces groupes ne cessent de renforcer leur implantation et leurs capacités de recrutement. Entretien avec le spécialiste Jean-Hervé Jezequel.]]></description>
+                <comments>https://www.mediapart.fr/journal/international/100317/au-sahel-les-principaux-groupes-djihadistes-fusionnent-et-se-renforcent/commentaires</comments>
+                <category domain="https://www.mediapart.fr/journal/international">International</category>
+                <category domain="https://www.mediapart.fr/journal/mot-cle/al-morabitoune">Al-Morabitoune</category>
+                <category domain="https://www.mediapart.fr/journal/mot-cle/ansar-dine">Ansar Dine</category>
+                <category domain="https://www.mediapart.fr/journal/mot-cle/aqmi">AQMI</category>
+                <category domain="https://www.mediapart.fr/journal/mot-cle/mali">Mali</category>
+                <category domain="https://www.mediapart.fr/journal/mot-cle/niger">Niger</category>
+                <category domain="https://www.mediapart.fr/journal/mot-cle/sahel">Sahel</category>
+                <pubDate>2017-03-10T13:05:34+01:00</pubDate>
+                <dc:creator>Fabien Offner</dc:creator>
+                <guid isPermaLink="false">674990 at https://www.mediapart.fr/</guid>
+            </item>
+            <item>
+                <title><![CDATA[Le «peuple du Trocadéro» enterre quinze ans de cycle politique]]></title>
+                <link>https://www.mediapart.fr/journal/france/100317/le-peuple-du-trocadero-enterre-quinze-ans-de-cycle-politique</link>
+                <description><![CDATA[  Au Trocadéro, le 5 mars. © Reuters Ce qui s’est joué autour du maintien de François Fillon dépasse la valse des défections, des retournements de vestes, des grandes déclarations et des bruits de couloir. Le rassemblement du Trocadéro, l’abandon d’Alain Juppé et les atermoiements des centristes, marquent la fin définitive de l’UMP (devenue LR) telle qu’elle avait été conçue en 2002, comme une fusion des « droites républicaines ».]]></description>
+                <comments>https://www.mediapart.fr/journal/france/100317/le-peuple-du-trocadero-enterre-quinze-ans-de-cycle-politique/commentaires</comments>
+                <category domain="https://www.mediapart.fr/journal/france">France</category>
+                <category domain="https://www.mediapart.fr/journal/mot-cle/alain-juppe">Alain Juppé</category>
+                <category domain="https://www.mediapart.fr/journal/mot-cle/centre">centre</category>
+                <category domain="https://www.mediapart.fr/journal/mot-cle/droite">droite</category>
+                <category domain="https://www.mediapart.fr/journal/mot-cle/francois-fillon">François Fillon</category>
+                <category domain="https://www.mediapart.fr/journal/mot-cle/la-manif-pour-tous">La Manif pour tous</category>
+                <category domain="https://www.mediapart.fr/journal/mot-cle/les-republicains">Les Républicains</category>
+                <category domain="https://www.mediapart.fr/journal/mot-cle/lr">LR</category>
+                <category domain="https://www.mediapart.fr/journal/mot-cle/nicolas-sarkozy">Nicolas Sarkozy</category>
+                <category domain="https://www.mediapart.fr/journal/mot-cle/presidentielle-2017">présidentielle 2017</category>
+                <category domain="https://www.mediapart.fr/journal/mot-cle/sens-commun">Sens Commun</category>
+                <category domain="https://www.mediapart.fr/journal/mot-cle/udi">UDI</category>
+                <pubDate>2017-03-10T12:47:56+01:00</pubDate>
+                <dc:creator>Ellen Salvi</dc:creator>
+                <guid isPermaLink="false">674949 at https://www.mediapart.fr/</guid>
+            </item>
+            <item>
+                <title><![CDATA[En Avesnois (8). Franck, hôtelier, sans boussole au pied des Ardennes]]></title>
+                <link>https://www.mediapart.fr/journal/france/100317/en-avesnois-8-franck-hotelier-sans-boussole-au-pied-des-ardennes</link>
+                <description><![CDATA[Huitième et dernier volet de notre reportage. Rencontre avec Franck Plateau, hôtelier et restaurateur à Liessies, un village hors du temps qui vit du tourisme. Pour les élections de 2017, Franck fait partie des déboussolés. Seule certitude : tout faire pour éviter le FN.]]></description>
+                <comments>https://www.mediapart.fr/journal/france/100317/en-avesnois-8-franck-hotelier-sans-boussole-au-pied-des-ardennes/commentaires</comments>
+                <category domain="https://www.mediapart.fr/journal/france">France</category>
+                <category domain="https://www.mediapart.fr/journal/mot-cle/avesnois">Avesnois</category>
+                <category domain="https://www.mediapart.fr/journal/mot-cle/elections-2017">élections 2017</category>
+                <category domain="https://www.mediapart.fr/journal/mot-cle/politique">politique</category>
+                <pubDate>2017-03-10T08:04:28+01:00</pubDate>
+                <dc:creator>Jérôme Hourdeaux</dc:creator>
+                <guid isPermaLink="false">673348 at https://www.mediapart.fr/</guid>
+            </item>
+            <item>
+                <title><![CDATA[Carte blanche à Usul: une fierté à reconstruire]]></title>
+                <link>https://www.mediapart.fr/journal/france/090317/carte-blanche-usul-une-fierte-reconstruire</link>
+                <description><![CDATA[  Vidéo accessible dans l'article. ]]></description>
+                <comments>https://www.mediapart.fr/journal/france/090317/carte-blanche-usul-une-fierte-reconstruire/commentaires</comments>
+                <category domain="https://www.mediapart.fr/journal/france">France</category>
+                <category domain="https://www.mediapart.fr/journal/mot-cle/cinquieme-republique">Cinquième République</category>
+                <category domain="https://www.mediapart.fr/journal/mot-cle/constitution">Constitution</category>
+                <category domain="https://www.mediapart.fr/journal/mot-cle/dominique-rousseau">Dominique Rousseau</category>
+                <category domain="https://www.mediapart.fr/journal/mot-cle/paul-allies">Paul Alliès</category>
+                <category domain="https://www.mediapart.fr/journal/mot-cle/sixieme-republique">Sixième République</category>
+                <pubDate>2017-03-09T22:51:53+01:00</pubDate>
+                <dc:creator>Usul</dc:creator>
+                <guid isPermaLink="false">674920 at https://www.mediapart.fr/</guid>
+            </item>
+            <item>
+                <title><![CDATA[Réanimer notre démocratie]]></title>
+                <link>https://www.mediapart.fr/journal/france/090317/reanimer-notre-democratie</link>
+                <description><![CDATA[  Vidéo accessible dans l'article La démocratie, sa crise française et sa rénovation nécessaire.]]></description>
+                <comments>https://www.mediapart.fr/journal/france/090317/reanimer-notre-democratie/commentaires</comments>
+                <category domain="https://www.mediapart.fr/journal/france">France</category>
+                <category domain="https://www.mediapart.fr/journal/mot-cle/cinquieme-republique">Cinquième République</category>
+                <category domain="https://www.mediapart.fr/journal/mot-cle/democratie">démocratie</category>
+                <pubDate>2017-03-09T22:48:57+01:00</pubDate>
+                <dc:creator>La rédaction de Mediapart</dc:creator>
+                <guid isPermaLink="false">674917 at https://www.mediapart.fr/</guid>
+            </item>
+            <item>
+                <title><![CDATA[Présidentielle: changer de République?]]></title>
+                <link>https://www.mediapart.fr/journal/france/090317/presidentielle-changer-de-republique</link>
+                <description><![CDATA[  Vidéo accessible dans l'article. © Mediapart Retrouvez notre émission «En direct de Mediapart», avec les professeurs de droit constitutionnel Dominique Rousseau et Paul Alliès, et les journalistes de Mediapart Mathilde Mathieu et Mathieu Magnaudeix.]]></description>
+                <comments>https://www.mediapart.fr/journal/france/090317/presidentielle-changer-de-republique/commentaires</comments>
+                <category domain="https://www.mediapart.fr/journal/france">France</category>
+                <category domain="https://www.mediapart.fr/journal/mot-cle/cinquieme-republique">Cinquième République</category>
+                <category domain="https://www.mediapart.fr/journal/mot-cle/constitution">Constitution</category>
+                <category domain="https://www.mediapart.fr/journal/mot-cle/dominique-rousseau">Dominique Rousseau</category>
+                <category domain="https://www.mediapart.fr/journal/mot-cle/paul-allies">Paul Alliès</category>
+                <category domain="https://www.mediapart.fr/journal/mot-cle/sixieme-republique">Sixième République</category>
+                <pubDate>2017-03-09T22:03:01+01:00</pubDate>
+                <dc:creator>La rédaction de Mediapart</dc:creator>
+                <guid isPermaLink="false">674876 at https://www.mediapart.fr/</guid>
+            </item>
+            <item>
+                <title><![CDATA[Affaire Baupin, violences faites aux femmes]]></title>
+                <link>https://www.mediapart.fr/journal/france/090317/affaire-baupin-violences-faites-aux-femmes</link>
+                <description><![CDATA[  Vidéo accessible dans l'article. Au lendemain de la Journée internationale des droits des femmes, retour sur l'affaire Baupin et sur ce qu'elle a mis en évidence. Avec Lénaïg Bredoux et Mathilde Goanec, journalistes à Mediapart. ]]></description>
+                <comments>https://www.mediapart.fr/journal/france/090317/affaire-baupin-violences-faites-aux-femmes/commentaires</comments>
+                <category domain="https://www.mediapart.fr/journal/france">France</category>
+                <category domain="https://www.mediapart.fr/journal/mot-cle/8-mars">8 mars</category>
+                <category domain="https://www.mediapart.fr/journal/mot-cle/denis-baupin">Denis Baupin</category>
+                <category domain="https://www.mediapart.fr/journal/mot-cle/femmes">femmes</category>
+                <category domain="https://www.mediapart.fr/journal/mot-cle/violences-faites-aux-femmes">violences faites aux femmes</category>
+                <pubDate>2017-03-09T20:59:53+01:00</pubDate>
+                <dc:creator>La rédaction de Mediapart</dc:creator>
+                <guid isPermaLink="false">674875 at https://www.mediapart.fr/</guid>
+            </item>
+                </channel>
+</rss>

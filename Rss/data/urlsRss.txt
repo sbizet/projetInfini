@@ -1,0 +1,6 @@
+https://news.google.com/news?cf=all&hl=fr&pz=1&ned=fr&topic=n&output=rss
+http://www.leparisien.fr/une/rss.xml#xtor=RSS-1481423633
+https://www.mediapart.fr/articles/feed
+http://www.lesechos.fr/rss/rss_articles_journal.xml
+http://www.france24.com/fr/actualites/rss
+http://www.lemonde.fr/rss/une.xml

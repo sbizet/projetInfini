@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Le Monde.fr - Actualités et Infos en France et dans le monde</title>
+    <description>Le Monde.fr - 1er site d'information. Les articles du journal et toute l'actualité en continu : International, France, Société, Economie, Culture, Environnement, Blogs ...</description>
+    <copyright>Copyright Le Monde.fr</copyright>
+    <link>http://www.lemonde.fr/rss/une.xml</link>
+    <atom:link href="http://www.lemonde.fr/rss/une.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 23 Jan 2017 11:28:39 +0100</pubDate>
+    <image>
+      <url>http://www.lemonde.fr/mmpub/img/lgo/lemondefr_rss.gif</url>
+      <title>Le Monde.fr - Actualités et Infos en France et dans le monde</title>
+      <link>http://www.lemonde.fr/rss/une.xml</link>
+    </image>
+    <item>
+      <link>http://www.lemonde.fr/primaire-de-la-gauche/article/2017/01/23/primaire-a-gauche-cafouillage-autour-des-chiffres-de-participation_5067415_5008374.html?xtor=RSS-3208</link>
+      <title>Primaire à gauche : cafouillage autour des chiffres de participation</title>
+      <description>Lundi matin, la Haute Autorité des primaires citoyennes restait dans l’incapacité de donner le nombre précis de votants. Un doute subsiste sur le nombre de bureaux ouverts.</description>
+      <pubDate>Mon, 23 Jan 2017 10:43:24 +0100</pubDate>
+      <guid isPermaLink="true">http://www.lemonde.fr/tiny/5067415/</guid>
+      <enclosure url="http://s1.lemde.fr/image/2017/01/23/644x322/5067414_3_49c5_jean-christophe-cambadelis-premier_57c118eb17e7b19a7247605b0966fc25.jpg" type="image/jpeg" length="33609"/>
+    </item>
+    <item>
+      <link>http://www.lemonde.fr/primaire-de-la-gauche/live/2017/01/23/primaire-a-gauche-en-direct-une-deuxieme-campagne-demarre-pour-hamon-et-valls_5067255_5008374.html?xtor=RSS-3208</link>
+      <title>Primaire à gauche, en direct : une deuxième campagne démarre pour Hamon et Valls</title>
+      <description>Selon des chiffres provisoires, le premier tour a mobilisé 1,56 million de votants. Benoît Hamon est sorti en tête avec 36,35 % des voix, suivi par Manuel Valls (31,11 %).</description>
+      <pubDate>Mon, 23 Jan 2017 06:46:20 +0100</pubDate>
+      <guid isPermaLink="true">http://www.lemonde.fr/tiny/5067255/</guid>
+      <enclosure url="http://s2.lemde.fr/image/2017/01/23/644x322/5067283_3_29de_benoit-hamon-candidat-a-la-primaire-de-la-g_f6e50705dac3fd60479d6bbfe552994c.jpg" type="image/jpeg" length="46161"/>
+    </item>
+    <item>
+      <link>http://www.lemonde.fr/les-decodeurs/article/2017/01/23/primaire-de-la-gauche-les-cartes-des-resultats-par-circonscription_5067296_4355770.html?xtor=RSS-3208</link>
+      <title>Primaire de la gauche : les cartes des résultats par circonscription</title>
+      <description>Elaborées à partir de 534 circonscriptions métropolitaines, ces cartes représentent les résultats après le dépouillement de 85 % des bureaux de vote à l’issue du premier tour de la primaire de la gauche qui se tenait dimanche.</description>
+      <pubDate>Mon, 23 Jan 2017 08:24:58 +0100</pubDate>
+      <guid isPermaLink="true">http://www.lemonde.fr/tiny/5067296/</guid>
+      <enclosure url="http://s1.lemde.fr/image/2017/01/23/644x322/5067285_3_2c97_primaire-a-gauche-la-carte-par_3df1d2eff14c59cd838d4f909c4cb29b.png" type="image/png" length="145496"/>
+    </item>
+    <item>
+      <link>http://www.lemonde.fr/election-presidentielle-2017/article/2017/01/23/le-sourire-des-partisans-d-emmanuel-macron_5067326_4854003.html?xtor=RSS-3208</link>
+      <title>Le sourire des partisans d’Emmanuel Macron</title>
+      <description>La défaite possible de Manuel Valls élargit l’espace politique de l’ancien ministre de l’économie.</description>
+      <pubDate>Mon, 23 Jan 2017 09:26:44 +0100</pubDate>
+      <guid isPermaLink="true">http://www.lemonde.fr/tiny/5067326/</guid>
+      <enclosure url="http://s2.lemde.fr/image/2017/01/23/644x322/5067321_3_8741_emmanuel-macron-en-deplacement-a-quimper-le-1_d9b3876b8c8e4d72c18dac1b3a0499fe.jpg" type="image/jpeg" length="28687"/>
+    </item>
+    <item>
+      <link>http://www.lemonde.fr/election-presidentielle-2017/article/2017/01/23/melenchon-se-reve-en-unique-candidat-de-la-gauche_5067340_4854003.html?xtor=RSS-3208</link>
+      <title>Mélenchon se rêve en unique candidat de la gauche</title>
+      <description>Le chef de file de La France insoumise appelle le PS à se retirer de la présidentielle.</description>
+      <pubDate>Mon, 23 Jan 2017 09:39:24 +0100</pubDate>
+      <guid isPermaLink="true">http://www.lemonde.fr/tiny/5067340/</guid>
+      <enclosure url="http://s1.lemde.fr/image/2017/01/23/644x322/5067343_3_c8c2_jean-luc-melenchon-candidat-a-la-p_2b58125328f801ae6e72694021393e73.jpg" type="image/jpeg" length="20077"/>
+    </item>
+    <item>
+      <link>http://www.lemonde.fr/videos/video/2017/01/22/primaire-a-gauche-benoit-hamon-a-joue-sur-l-effet-nouveaute_5067154_1669088.html?xtor=RSS-3208</link>
+      <title>« Benoît Hamon a joué sur l’effet nouveauté »</title>
+      <description>Comment expliquer le succès de Benoît Hamon ? Peut-il déjà crier victoire ? L’analyse de Françoise Fressoz, éditorialiste au « Monde ».</description>
+      <pubDate>Sun, 22 Jan 2017 23:46:24 +0100</pubDate>
+      <guid isPermaLink="true">http://www.lemonde.fr/tiny/5067154/</guid>
+      <enclosure url="http://s2.lemde.fr/image/2017/01/22/644x322/5067153_3_2a12_benoit-hamon-lors-de-son-discours-prononce-s_6421401dc70a3dd38a219ca7767e4bc1.jpg" type="image/jpeg" length="34082"/>
+    </item>
+    <item>
+      <link>http://www.lemonde.fr/ameriques/article/2017/01/22/dans-sa-bataille-contre-la-presse-l-administration-trump-sort-des-faits-alternatifs_5067129_3222.html?xtor=RSS-3208</link>
+      <title>Dans sa bataille contre la presse, l’administration Trump sort des « faits alternatifs »</title>
+      <description>En deux jours à la Maison Blanche, le président américain et son équipe ont bien fait comprendre, à plusieurs reprises, que les médias seront leur antagoniste.</description>
+      <pubDate>Sun, 22 Jan 2017 22:15:10 +0100</pubDate>
+      <guid isPermaLink="true">http://www.lemonde.fr/tiny/5067129/</guid>
+      <enclosure url="http://s1.lemde.fr/image/2017/01/22/644x322/5067128_3_1950_la-conseillere-de-donald-trump-kellyanne_c342f15036b4fb58d9627b607e701b5b.jpg" type="image/jpeg" length="28923"/>
+    </item>
+    <item>
+      <link>http://www.lemonde.fr/syrie/article/2017/01/23/les-pourparlers-de-paix-sur-la-syrie-ont-commence-a-astana-au-kazakhstan_5067382_1618247.html?xtor=RSS-3208</link>
+      <title>Les pourparlers de paix sur la Syrie ont commencé à Astana, au Kazakhstan</title>
+      <description>La délégation des rebelles a refusé que la première session des négociations se déroule en face à face.</description>
+      <pubDate>Mon, 23 Jan 2017 10:28:36 +0100</pubDate>
+      <guid isPermaLink="true">http://www.lemonde.fr/tiny/5067382/</guid>
+      <enclosure url="http://s2.lemde.fr/image/2017/01/23/644x322/5067379_3_c9db_l-emissaire-des-nations-unies-pour-la-syrie-st_1df9ca392d9e96215e4da436bc136f7f.jpg" type="image/jpeg" length="35203"/>
+    </item>
+    <item>
+      <link>http://www.lemonde.fr/economie/article/2017/01/23/vivarte-chronique-d-un-demantelement-annonce_5067374_3234.html?xtor=RSS-3208</link>
+      <title>André, Minelli, Naf Naf... Chronique du démantèlement annoncé de Vivarte</title>
+      <description>Le groupe français, spécialisé dans le prêt-à-porter et les chaussures, doit présenter lundi son plan d’action pour redresser sa situation financière critique.</description>
+      <pubDate>Mon, 23 Jan 2017 10:24:37 +0100</pubDate>
+      <guid isPermaLink="true">http://www.lemonde.fr/tiny/5067374/</guid>
+      <enclosure url="http://s1.lemde.fr/image/2017/01/23/644x322/5067373_3_80a0_des-salaries-de-vivarte-manifestent-devant-le_428699a5298815b11a58eb9cca905f98.jpg" type="image/jpeg" length="60999"/>
+    </item>
+    <item>
+      <link>http://www.lemonde.fr/economie/article/2017/01/23/les-liens-de-mario-draghi-avec-les-banques-au-c-ur-d-une-enquete-europeenne_5067358_3234.html?xtor=RSS-3208</link>
+      <title>Les liens de Mario Draghi avec les banques au cœur d’une enquête</title>
+      <description>Une enquête européenne a été ouverte sur l’appartenance du président de la BCE au Groupe des Trente, un cercle de réflexion auquel participent des banquiers.</description>
+      <pubDate>Mon, 23 Jan 2017 10:10:19 +0100</pubDate>
+      <guid isPermaLink="true">http://www.lemonde.fr/tiny/5067358/</guid>
+      <enclosure url="http://s2.lemde.fr/image/2017/01/23/644x322/5067356_3_11df_european-central-bank-ecb-president-mario_0196f3fbf26e4dce60161215b40f0abd.jpg" type="image/jpeg" length="19867"/>
+    </item>
+    <item>
+      <link>http://sport.lemonde.fr/tennis/direct/open-d-australie/2017/monfils-nadal.html?xtor=RSS-3208</link>
+      <title>Open d’Australie : suivez Monfils-Nadal en direct</title>
+      <description>Le Français affronte Rafael Nadal, qui revient à son meilleur niveau, pour une place en quarts de finale de l’Open d’Australie.</description>
+      <pubDate>Mon, 23 Jan 2017 10:42:41 +0100</pubDate>
+      <guid isPermaLink="true">http://www.lemonde.fr/tiny/5067412/</guid>
+      <enclosure url="http://s1.lemde.fr/image/2017/01/23/644x322/5067411_3_e6e0_gael-monfils-lors-de-son-match-face-a-philipp-k_b6bf95207219ba7030d0e3a184d18f91.jpg" type="image/jpeg" length="24971"/>
+    </item>
+    <item>
+      <link>http://www.lemonde.fr/pollution/article/2017/01/22/pics-de-pollution-qui-est-affecte-et-qui-pourra-circuler-en-voiture-lundi_5066989_1652666.html?xtor=RSS-3208</link>
+      <title>Circulation différenciée ou alternée : qui est affecté et qui peut circuler ?</title>
+      <description>Un important épisode de pollution aux particules fines a lieu depuis dimanche à Paris, à Lyon, dans le Centre et dans l’Ouest.</description>
+      <pubDate>Sun, 22 Jan 2017 17:00:39 +0100</pubDate>
+      <guid isPermaLink="true">http://www.lemonde.fr/tiny/5066989/</guid>
+      <enclosure url="http://s2.lemde.fr/image/2017/01/22/644x322/5066988_3_4991_a-lyon-le-9-decembre_3c600a525567e2259b5d9ff70a3427f8.jpg" type="image/jpeg" length="6885"/>
+    </item>
+    <item>
+      <link>http://www.lemonde.fr/sante/article/2017/01/23/le-depistage-organise-permettrait-d-eviter-neuf-cancers-du-col-de-l-uterus-sur-dix_5067161_1651302.html?xtor=RSS-3208</link>
+      <title>Le dépistage du cancer du col de l’utérus sera systématisé en 2018</title>
+      <description>Ces tumeurs entraînent chaque année un millier de décès. Les femmes âgées de 25 à 65 ans seront invitées à effectuer un frottis tous les trois ans. Le dépistage organisé permettrait d’éviter neuf cancers du col de l’utérus sur dix.</description>
+      <pubDate>Mon, 23 Jan 2017 02:03:24 +0100</pubDate>
+      <guid isPermaLink="true">http://www.lemonde.fr/tiny/5067161/</guid>
+      <enclosure url="http://s1.lemde.fr/image/2017/01/23/644x322/5067159_3_24c8_la-generalisation-du-depistage-organise-pre_cbddc5dae28a1ee68cd084fb9dc17010.png" type="image/png" length="70648"/>
+    </item>
+    <item>
+      <link>http://www.lemonde.fr/asie-pacifique/article/2017/01/23/en-chine-la-natalite-est-au-plus-haut-un-an-apres-l-instauration-de-la-politique-des-deux-enfants_5067319_3216.html?xtor=RSS-3208</link>
+      <title>En Chine, la natalité est au plus haut, un an après l’instauration de la politique des deux enfants</title>
+      <description>Pékin autorise depuis 2016 tous les couples mariés à avoir un deuxième enfant, mais des limitations sur les naissances additionnelles demeurent.</description>
+      <pubDate>Mon, 23 Jan 2017 09:20:13 +0100</pubDate>
+      <guid isPermaLink="true">http://www.lemonde.fr/tiny/5067319/</guid>
+      <enclosure url="http://s2.lemde.fr/image/2017/01/23/644x322/5067318_3_8a5b_depuis-janvier-2016-pekin-autorise-tous-les_20886662badec5496eb36514cc9aa9bc.jpg" type="image/jpeg" length="41196"/>
+    </item>
+    <item>
+      <link>http://www.lemonde.fr/economie/article/2017/01/23/le-fiasco-du-galaxy-note-7-du-aux-batteries-defectueuses-selon-samsung_5067176_3234.html?xtor=RSS-3208</link>
+      <title>Le fiasco du Galaxy Note 7 dû aux batteries défectueuses, selon Samsung</title>
+      <description>Une enquête interne a mobilisé 700 chercheurs et ingénieurs, qui ont testé plus de 200 000 appareils et plus de 30 000 batteries.</description>
+      <pubDate>Mon, 23 Jan 2017 04:01:24 +0100</pubDate>
+      <guid isPermaLink="true">http://www.lemonde.fr/tiny/5067176/</guid>
+      <enclosure url="http://s1.lemde.fr/image/2017/01/23/644x322/5067175_3_0eeb_koh-dong-jin-chef-de-la-division-mobile-de_9fb07477b96282d6a77b20169f90dcf3.jpg" type="image/jpeg" length="69551"/>
+    </item>
+    <item>
+      <link>http://www.lemonde.fr/campus/article/2017/01/23/un-professeur-d-universite-mis-en-examen-pour-le-viol-d-une-etudiante_5067422_4401467.html?xtor=RSS-3208</link>
+      <title>Un professeur d’université mis en examen pour le viol d’une étudiante</title>
+      <description>Accusé par une doctorante dont il est le directeur de thèse, cet enseignant de l’université Rennes 2 a été placé sous contrôle judiciaire avec interdiction d’enseigner.</description>
+      <pubDate>Mon, 23 Jan 2017 10:47:29 +0100</pubDate>
+      <guid isPermaLink="true">http://www.lemonde.fr/tiny/5067422/</guid>
+      <enclosure url="http://s2.lemde.fr/image/2017/01/23/644x322/5067420_3_170c_l-universite-rennes-2_578ce79145274ff545fd7898548e32b4.jpg" type="image/jpeg" length="32835"/>
+    </item>
+    <item>
+      <link>http://www.lemonde.fr/afrique/article/2017/01/23/dans-les-redactions-de-gambie-premiers-editos-sans-peur-de-la-repression_5067387_3212.html?xtor=RSS-3208</link>
+      <title>Après le départ de Jammeh, les journalistes de Gambie savourent leur nouvelle liberté</title>
+      <description>Absente des kiosques depuis cinq jours et muselée pendant vingt-deux ans de dictature, la presse gambienne reparaît, enfin.</description>
+      <pubDate>Mon, 23 Jan 2017 10:31:29 +0100</pubDate>
+      <guid isPermaLink="true">http://www.lemonde.fr/tiny/5067387/</guid>
+      <enclosure url="http://s1.lemde.fr/image/2017/01/23/644x322/5067386_3_e798_le-21-janvier-2107-des-gambiens-fetent-le_3fc805e876015f36f42010ee99f37536.jpg" type="image/jpeg" length="24980"/>
+    </item>
+    <item>
+      <link>http://www.lemonde.fr/proche-orient/article/2017/01/22/ambassade-colonisation-les-sujets-de-conversation-brulants-entre-trump-et-netanyahou_5067068_3218.html?xtor=RSS-3208</link>
+      <title>Ambassade, colonisation : les sujets de conversation brûlants entre Trump et Nétanyahou</title>
+      <description>Le nouveau président américain et le premier ministre israélien ont discuté par téléphone, dimanche, avant une visite officielle à Washington en février.</description>
+      <pubDate>Sun, 22 Jan 2017 20:22:38 +0100</pubDate>
+      <guid isPermaLink="true">http://www.lemonde.fr/tiny/5067068/</guid>
+      <enclosure url="http://s2.lemde.fr/image/2017/01/22/644x322/5067065_3_a6b8_files-this-file-photo-taken-on-september-27_0c1882d29745d0191bf96c5526bce0b7.jpg" type="image/jpeg" length="63474"/>
+    </item>
+    <item>
+      <link>http://www.lemonde.fr/ameriques/article/2017/01/23/au-moins-18-morts-dans-de-violentes-tempetes-et-des-tornades-au-sud-des-etats-unis_5067300_3222.html?xtor=RSS-3208</link>
+      <title>Au moins 18 morts dans de violentes tempêtes et des tornades au sud des Etats-Unis</title>
+      <description>La Géorgie et le Mississippi ont fait face samedi et dimanche à une violente tempête et une tornade. Le bilan humain a été revu à la hausse lundi.</description>
+      <pubDate>Mon, 23 Jan 2017 08:43:58 +0100</pubDate>
+      <guid isPermaLink="true">http://www.lemonde.fr/tiny/5067300/</guid>
+      <enclosure url="http://s1.lemde.fr/image/2017/01/23/644x322/5067297_3_fac0_la-carte-du-commandement-de-la-defense_c5cea2a400963da052124b702449f3df.jpg" type="image/jpeg" length="67588"/>
+    </item>
+    <item>
+      <link>http://www.lemonde.fr/sport/article/2017/01/23/la-superstar-tom-brady-va-disputer-un-septieme-super-bowl-la-grande-finale-du-football-americain_5067180_3242.html?xtor=RSS-3208</link>
+      <title>La superstar Tom Brady va disputer un septième Super Bowl, la grande finale du football américain</title>
+      <description>Après avoir battu Pittsburgh dimanche, le quarterback a l’occasion de remporter son cinquième Super Bowl avec New England. Ce sera contre Atlanta le 5 février.</description>
+      <pubDate>Mon, 23 Jan 2017 05:12:00 +0100</pubDate>
+      <guid isPermaLink="true">http://www.lemonde.fr/tiny/5067180/</guid>
+      <enclosure url="http://s2.lemde.fr/image/2017/01/23/644x322/5067179_3_566d_a-39-ans-tom-brady-peut-devenir-le-seul-joueur_01fb16b5d9ad917d2971ed942a31a386.jpg" type="image/jpeg" length="40116"/>
+    </item>
+    <item>
+      <link>http://www.lemonde.fr/planete/article/2017/01/23/tahiti-et-moorea-envahies-par-les-eaux_5067157_3244.html?xtor=RSS-3208</link>
+      <title>Envahies par les eaux, la Polynésie française « en état de calamité naturelle »</title>
+      <description>A la suite du débordement des rivières, plusieurs centaines de maisons ont été inondées, dimanche. Le Haut-Commissariat de la Polynésie française a constitué un PC de crise.</description>
+      <pubDate>Mon, 23 Jan 2017 00:41:38 +0100</pubDate>
+      <guid isPermaLink="true">http://www.lemonde.fr/tiny/5067157/</guid>
+      <enclosure url="http://s1.lemde.fr/image/2017/01/23/644x322/5067155_3_60fb_certains-polynesiens-se-deplacent-en-p_35ab0f4eb2390c18f107a246d0daab16.jpg" type="image/jpeg" length="34658"/>
+    </item>
+    <item>
+      <link>http://www.lemonde.fr/societe/article/2017/01/22/les-antiavortement-manifestent-et-appellent-les-candidats-a-la-presidentielle-a-lutter-contre-les-ivg_5067031_3224.html?xtor=RSS-3208</link>
+      <title>Les opposants à l’avortement appellent les candidats à la présidentielle à « lutter contre les IVG »</title>
+      <description>Ils ont défilé dimanche à Paris. A défaut de revendiquer ouvertement l’abrogation de la loi Veil, nombre d’entre eux disent vouloir une réduction du nombre d’IVG.</description>
+      <pubDate>Sun, 22 Jan 2017 18:38:34 +0100</pubDate>
+      <guid isPermaLink="true">http://www.lemonde.fr/tiny/5067031/</guid>
+      <enclosure url="http://s2.lemde.fr/image/2017/01/22/644x322/5067061_3_3e34_les-militants-hostiles-a-l-avortement-ont-de_b916f496f3ec23b08d53dc87e0dbdda3.jpg" type="image/jpeg" length="47280"/>
+    </item>
+    <item>
+      <link>http://www.lemonde.fr/europe/article/2017/01/23/un-policier-vise-par-une-attaque-terroriste-a-belfast_5067164_3214.html?xtor=RSS-3208</link>
+      <title>Un policier blessé après des coups de feu à Belfast, les autorités évoquent une « attaque terroriste »</title>
+      <description>La police nord-irlandaise soupçonne des « dissidents républicains » d’avoir tiré sur un officier.</description>
+      <pubDate>Mon, 23 Jan 2017 02:48:41 +0100</pubDate>
+      <guid isPermaLink="true">http://www.lemonde.fr/tiny/5067164/</guid>
+      <enclosure url="http://s1.lemde.fr/image/2017/01/23/644x322/5067163_3_0b4a_belfast-le-16-janvier-2017_5cfe0d34d97a02b886b6eb34a72cfe38.jpg" type="image/jpeg" length="25396"/>
+    </item>
+  </channel>
+</rss>

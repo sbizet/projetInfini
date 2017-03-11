@@ -1,0 +1,1063 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:og="http://ogp.me/ns#">
+<channel><title>Les Echos : tous les articles du journal du jour</title>
+        <link></link>
+        <description>Les Echos : les articles publiés dans les cahiers 1 et 2 du journal du jour</description>
+        <category></category> <language>fr-FR</language>
+        <copyright>copyright 2017</copyright>
+        <pubDate>Fri, 10 Mar 2017 19:16:35 +0200</pubDate>
+        <lastBuildDate>Fri, 10 Mar 2017 19:16:35 +0200</lastBuildDate>
+        <ttl>60</ttl>
+        <docs>http://syndication.lesechos.fr/rss/rss_articles_journal.xml</docs>
+        <skipDays>
+                <day>Saturday</day>
+                <day>Sunday</day>       
+</skipDays>
+        <skipHours>
+                <hour>1</hour>
+                <hour>2</hour>
+                <hour>3</hour>
+                <hour>21</hour>
+                <hour>22</hour>
+                <hour>23</hour>
+                <hour>0</hour>
+        </skipHours>
+<item>
+  <title>CentraleSupélec relance le débat sur les droits de scolarité des écoles d'ingénieurs</title>
+  <description>L’école d’ingénieurs augmentera ses droits de 36 % à la rentrée prochaine.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Marie-Christine Corbier</dc:creator>
+  <pubDate>Fri, 10 Mar 2017 15:08:58 +0200</pubDate>
+  <category>Politique - Société</category>
+  <link>http://www.lesechos.fr/politique-societe/societe/0211863977054-centralesupelec-relance-le-debat-sur-les-droits-de-scolarite-des-ecoles-dingenieurs-2071262.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2017/03/10/2071262_centralesupelec-relance-le-debat-sur-les-droits-de-scolarite-des-ecoles-dingenieurs-web-0211863899341.jpg"/>
+</item>
+
+<item>
+  <title>Présidentielle : mais où est donc passé Stendhal ?</title>
+  <description>Les électeurs affichent une indécision et un désengagement sans précédent vis-à-vis de la présidentielle . La cristallisation n’a pas – encore – eu lieu.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Cecile Cornudet</dc:creator>
+  <pubDate>Fri, 10 Mar 2017 10:01:22 +0200</pubDate>
+  <category>Elections</category>
+  <link>http://www.lesechos.fr/elections/presidentielle-2017/0211864200704-mais-ou-est-donc-passe-stendhal-2071162.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2017/03/10/2071162_presidentielle-mais-ou-est-donc-passe-stendhal-web-0211864826492_300x160.jpg"/>
+</item>
+
+<item>
+  <title>Hamon tente de se relancer sur son projet et d'endiguer la dynamique Macron</title>
+  <description>Le candidat du PS veut ramener le débat sur ses propositions, disant incarner un « futur désirable » et « possible ». Il a revu à 35 millliards le coût du revenu universel.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Pierre-Alain Furbury</dc:creator>
+  <pubDate>Fri, 10 Mar 2017 09:56:38 +0200</pubDate>
+  <category>Elections</category>
+  <link>http://www.lesechos.fr/elections/benoit-hamon/0211863578490-hamon-tente-de-se-relancer-sur-son-projet-et-dendiguer-la-dynamique-macron-2071317.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2017/03/10/2071317_hamon-tente-de-se-relancer-sur-son-projet-et-dendiguer-la-dynamique-macron-web-0211866917779_300x160.jpg"/>
+</item>
+
+<item>
+  <title>La collecte de dons en ligne arrive à maturité en France</title>
+  <description>Deux acteurs à peine se partagent 90 % des dons aux porteurs de projets. Redoutée, l’arrivée en France de Kickstarter n’est qu’un demi-succès.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Edouard Lederer</dc:creator>
+  <pubDate>Fri, 10 Mar 2017 09:46:54 +0200</pubDate>
+  <category>Finance - Marchés</category>
+  <link>http://www.lesechos.fr/finance-marches/banque-assurances/0211863834056-la-collecte-de-dons-en-ligne-arrive-a-maturite-en-france-2071312.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2017/03/10/2071312_1489135078_don-num-shutterstock-web_300x160.jpg"/>
+</item>
+
+<item>
+  <title>Année faste pour les dividendes</title>
+  <description>La plupart des entreprises du CAC 40 ont augmenté leur dividende cette année.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Pierrick Fay</dc:creator>
+  <pubDate>Fri, 10 Mar 2017 09:45:12 +0200</pubDate>
+  <category>Finance - Marchés</category>
+  <link>http://www.lesechos.fr/finance-marches/marches-financiers/0211860877108-annee-faste-pour-les-dividendes-2071144.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2016/09/07/2025364_1473229697_ipo-bourse-shutterstock_300x160.jpg"/>
+</item>
+
+<item>
+  <title>L'horizon s'éclaircit un peu plus pour les entreprises françaises</title>
+  <description>Les dirigeants du CAC 40 affichent une confiance prudente pour 2017.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Pierrick Fay</dc:creator>
+  <pubDate>Fri, 10 Mar 2017 09:43:06 +0200</pubDate>
+  <category>Finance - Marchés</category>
+  <link>http://www.lesechos.fr/finance-marches/marches-financiers/0211863059315-lhorizon-seclaircit-un-peu-plus-pour-les-entreprises-francaises-2071251.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2016/06/15/2006633_1465972295_web-bourse-shutterstock-291547142_300x160.jpg"/>
+</item>
+
+<item>
+  <title>Ces PME pionnières qui font le pari du design</title>
+  <description>La Biennale internationale design Saint-Etienne est cette année dédiée aux mutations du travail. Les PME de l’automobile, de l’Internet des objets ou du luxe, jouent un rôle de pionniers.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Laurence Albert</dc:creator>
+  <pubDate>Fri, 10 Mar 2017 09:29:46 +0200</pubDate>
+  <category>PME - Régions</category>
+  <link>http://www.lesechos.fr/pme-regions/actualite-pme/0211845490627-ces-pme-pionnieres-qui-font-le-pari-du-design-2071214.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2017/03/10/2071214_ces-pme-pionnieres-qui-font-le-pari-du-design-web-tete-0211864867521.jpg"/>
+</item>
+
+<item>
+  <title>Malgré la contrainte budgétaire, les villes commencent à faire appel aux designers</title>
+  <description>De plus en plus d’appels d’offres font une place aux designers. Une gageure pour les collectivités aux budgets serrés.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Laurence Albert</dc:creator>
+  <pubDate>Fri, 10 Mar 2017 09:26:46 +0200</pubDate>
+  <category>PME - Régions</category>
+  <link>http://www.lesechos.fr/pme-regions/actualite-pme/0211844096917-malgre-la-contrainte-budgetaire-les-villes-commencent-a-faire-appel-aux-designers-2071315.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2017/03/10/2071315_malgre-la-contrainte-budgetaire-les-villes-commencent-a-faire-appel-aux-designers-web-0211863863056_300x160.jpg"/>
+</item>
+
+<item>
+  <title>Quiksilver se rebaptise Boardriders après une cure d'amaigrissement</title>
+  <description>La marque de surf a remis de l’ordre dans ses activités aux Etats-Unis.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Pierre Etcheleku</dc:creator>
+  <pubDate>Fri, 10 Mar 2017 09:12:41 +0200</pubDate>
+  <category>Industrie - Services</category>
+  <link>http://www.lesechos.fr/industrie-services/conso-distribution/0211864291823-quiksilver-se-rebaptise-boardriders-apres-une-cure-damaigrissement-2071291.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2017/03/10/2071291_quiksilver-se-rebaptise-boardriders-apres-une-cure-damaigrissement-web-0211864016329.jpg"/>
+</item>
+
+<item>
+  <title>La France doit prendre congé du régime présidentiel</title>
+  <description>Trois livres prononcent, chacun à sa façon, la fin d’un système politique né en 1958. La France doit renouveler ses institutions et ses dirigeants.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Daniel Fortin</dc:creator>
+  <pubDate>Fri, 10 Mar 2017 08:46:04 +0200</pubDate>
+  <category>Idées - Débats</category>
+  <link>http://www.lesechos.fr/idees-debats/editos-analyses/0211853422179-la-france-doit-prendre-conge-du-regime-presidentiel-2071283.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2017/03/10/2071283_la-france-doit-prendre-conge-du-regime-presidentiel-web-0211864871505_300x160.jpg"/>
+</item>
+
+<item>
+  <title>Fiscalité de l'assurance-vie : l'inquiétude des assureurs monte avant les élections</title>
+  <description>Le secteur défend l’avantage fiscal attaché à ce produit. Les Français opposés au projet Macron d’une « flat tax »</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Laurent Thevenin</dc:creator>
+  <pubDate>Fri, 10 Mar 2017 07:22:50 +0200</pubDate>
+  <category>Finance - Marchés</category>
+  <link>http://www.lesechos.fr/finance-marches/banque-assurances/0211863825154-fiscalite-de-lassurance-vie-linquietude-des-assureurs-monte-avant-les-elections-2071176.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2017/03/10/2071176_fiscalite-de-lassurance-vie-linquietude-des-assureurs-monte-avant-les-elections-web-0211866768541_300x160.jpg"/>
+</item>
+
+<item>
+  <title>Le Nigeria veut en finir avec la récession</title>
+  <description>Abuja veut relancer son économie et atteindre une croissance de 7 % en 2020.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Michel de Grandi</dc:creator>
+  <pubDate>Fri, 10 Mar 2017 02:00:00 +0200</pubDate>
+  <category>Monde</category>
+  <link>http://www.lesechos.fr/monde/afrique-moyen-orient/0211863186097-le-nigeria-veut-en-finir-avec-la-recession-2071237.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2017/03/10/2071237_le-nigeria-veut-en-finir-avec-la-recession-web-0211866768745_300x160.jpg"/>
+</item>
+
+<item>
+  <title>Espagne : les partis politiques rattrapés par la corruption</title>
+  <description>A Barcelone, le parti nationaliste est au coeur d’une affaire de commissions occultes. A Madrid, c’est le financement du Parti populaire qui est sur la sellette.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Cecile Thibaud</dc:creator>
+  <pubDate>Fri, 10 Mar 2017 02:00:00 +0200</pubDate>
+  <category>Monde</category>
+  <link>http://www.lesechos.fr/monde/europe/0211864222372-les-partis-politiques-espagnols-rattrapes-par-la-corruption-2071255.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2017/03/10/2071255_espagne-les-partis-politiques-rattrapes-par-la-corruption-web-0211867323665_300x160.jpg"/>
+</item>
+
+<item>
+  <title>Un oui à l'euro qui oblige</title>
+  <description>Les choses sont désormais claires et sans appel. Le sondage que nous publions ce vendredi confirme de façon nette que les Français ne souhaitent pas quitter l’euro et revenir au franc, comme le propose le Front national. Marine Le Pen a fait de cette sortie le point central de son projet économique...</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Dominique Seux</dc:creator>
+  <pubDate>Fri, 10 Mar 2017 02:00:00 +0200</pubDate>
+  <category>Idées - Débats</category>
+  <link>http://www.lesechos.fr/idees-debats/editos-analyses/0211863587004-un-oui-a-leuro-qui-oblige-2071305.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2017/02/09/2063687_1486619251_dominique-seux-web_300x160.jpg"/>
+</item>
+
+<item>
+  <title>Monsieur Xi Jinping, vous avez bien dit « libre-échange » ?</title>
+  <description>Malgré le vibrant appel au libre-échange du président chinois à Davos, son pays continue à maltraiter les investisseurs étrangers. Et il vient de lancer un vaste plan de conquête industrielle, qui prévoit notamment de lutter contre les importations.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Eric Le Boucher</dc:creator>
+  <pubDate>Fri, 10 Mar 2017 02:00:00 +0200</pubDate>
+  <category>Idées - Débats</category>
+  <link>http://www.lesechos.fr/idees-debats/editos-analyses/0211863095109-monsieur-xi-jinping-vous-avez-bien-dit-libre-echange-2071208.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2017/03/10/2071208_monsieur-xi-jinping-vous-avez-bien-dit-libre-echange-web-0211865577727_300x160.jpg"/>
+</item>
+
+<item>
+  <title>Tous rivaux, tous rassemblés</title>
+  <description>La vie politique française n’a jamais semblé si fragmentée. Au lieu de se lamenter de ces cacophonies, il faut s’efforcer d’en comprendre les raisons.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Roger-Pol Droit</dc:creator>
+  <pubDate>Fri, 10 Mar 2017 02:00:00 +0200</pubDate>
+  <category>Idées - Débats</category>
+  <link>http://www.lesechos.fr/idees-debats/editos-analyses/0211863110683-tous-rivaux-tous-rassembles-2071229.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2017/01/27/2060468_1485503979_roger-pol-droit-web-chronique_300x160.jpg"/>
+</item>
+
+<item>
+  <title>Maurras, Raspail : une inspiration pour Bannon</title>
+  <description>Le conseiller de Donald Trump puise des idées dans une littérature française très orientée.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jacques Hubert-Rodier</dc:creator>
+  <pubDate>Fri, 10 Mar 2017 02:00:00 +0200</pubDate>
+  <category>Monde</category>
+  <link>http://www.lesechos.fr/monde/etats-unis/0211863744143-maurras-raspail-une-inspiration-pour-bannon-2071249.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2017/03/10/2071249_maurras-raspail-une-inspiration-pour-bannon-web-0211866768772.jpg"/>
+</item>
+
+<item>
+  <title>Trois Français sur quatre opposés à un retour au franc</title>
+  <description>Seules 28 % des personnes interrogées par Elabe veulent revenir au franc. Le soutien à l'idée européenne n'est toutefois plus majoritaire.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Guillaume de Calignon</dc:creator>
+  <pubDate>Fri, 10 Mar 2017 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20170310/lec1_france/0211863235916-trois-francais-sur-quatre-opposes-a-un-retour-au-franc-2071268.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2017/03/10/2071268_0211863871192_web_300x160.jpg"/>
+</item>
+
+<item>
+  <title>Le candidat du PS veut affecter l'impôt sur les sociétés au budget de la zone euro</title>
+  <description>Benoît Hamon veut sortir de l'austérité en dotant la zone euro d'un parlement et d'un budget propre alimenté par un IS commun.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Renaud Honoré</dc:creator>
+  <pubDate>Fri, 10 Mar 2017 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20170310/lec1_france/0211864250959-le-candidat-du-ps-veut-affecter-limpot-sur-les-societes-au-budget-de-la-zone-euro-2071279.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2017/03/10/2071279_le-candidat-du-ps-veut-affecter-limpot-sur-les-societes-au-budget-de-la-zone-euro-web-0211864841869_300x160.jpg"/>
+</item>
+
+<item>
+  <title>Le coût du revenu universel revu à 35 milliards</title>
+  <description>Benoît Hamon a confirmé revoir la forme de son revenu universel. Sa première phase, évaluée à 35 milliards, consistera en un RSA revalorisé à 600 euros par mois, dans son extension aux 18-25 ans, et le versement automatisé d'une sorte de prime d'activité. Cela concernera tous les travailleurs...</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Renaud Honoré</dc:creator>
+  <pubDate>Fri, 10 Mar 2017 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20170310/lec1_france/0211864638624-le-cout-du-revenu-universel-revu-a-35-milliards-2071163.php#xtor=RSS-37</link>
+</item>
+
+<item>
+  <title>Le leader d'En marche courtise les électeurs de Juppé</title>
+  <description>En meeting jeudi à Bordeaux, le candidat d'En marche à l'Elysée a lancé un nouvel appel aux électeurs de droite.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Gregoire Poussielgue</dc:creator>
+  <pubDate>Fri, 10 Mar 2017 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20170310/lec1_france/0211863086957-le-leader-den-marche-courtise-les-electeurs-de-juppe-2071240.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2017/03/10/2071240_le-leader-den-marche-courtise-les-electeurs-de-juppe-web-0211864641801_300x160.jpg"/>
+</item>
+
+<item>
+  <title>A Arès, les espoirs et les doutes des « marcheurs »</title>
+  <description>Au bord du bassin d'Arcachon, dans l'un des 3.727 comités d'En marche, les militants n'hésitent pas à questionner les mesures promises par Emmanuel Macron.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Gregoire Poussielgue</dc:creator>
+  <pubDate>Fri, 10 Mar 2017 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20170310/lec1_france/0211863580767-a-ares-les-espoirs-et-les-doutes-des-marcheurs-2071314.php#xtor=RSS-37</link>
+</item>
+
+<item>
+  <title>Tabac : nouvelle hausse des taxes</title>
+  <description>Le gouvernement a décidé de remonter le niveau du « minimum de perception » sur les cigarettes et le tabac à rouler.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Solveig Godeluck</dc:creator>
+  <pubDate>Fri, 10 Mar 2017 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20170310/lec1_france/0211865448019-tabac-nouvelle-hausse-des-taxes-2071259.php#xtor=RSS-37</link>
+</item>
+
+<item>
+  <title>La reprise de l'emploi bénéficie à la Sécurité sociale</title>
+  <description>La masse salariale a crû de 2,4 % en 2016, en accélération par rapport à 2015.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Solveig Godeluck</dc:creator>
+  <pubDate>Fri, 10 Mar 2017 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20170310/lec1_france/0211863711606-la-reprise-de-lemploi-beneficie-a-la-securite-sociale-2071293.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2017/03/10/2071293_0211864692053_web_300x160.jpg"/>
+</item>
+
+<item>
+  <title>Dépakine : un dispositif ad hoc pour sécuriser l'indemnisation</title>
+  <description>Le gouvernement a décidé de créer un collège d'experts et un comité d'indemnisation indépendants.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Solveig Godeluck</dc:creator>
+  <pubDate>Fri, 10 Mar 2017 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20170310/lec1_france/0211860722462-depakine-un-dispositif-ad-hoc-pour-securiser-lindemnisation-2071218.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2017/03/10/2071218_depakine-un-dispositif-ad-hoc-pour-securiser-lindemnisation-web-0211864322912_300x160.jpg"/>
+</item>
+
+<item>
+  <title>Qualité de l'air : la situation se dégrade aussi dans les habitations</title>
+  <description>Certains produits d'entretien seraient source d'une pollution majeure de l'air intérieur.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Joel Cossardeaux</dc:creator>
+  <pubDate>Fri, 10 Mar 2017 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20170310/lec1_france/0211863840066-qualite-de-lair-la-situation-se-degrade-aussi-dans-les-habitations-2071203.php#xtor=RSS-37</link>
+</item>
+
+<item>
+  <title>Marginalisée, la Pologne ne parvient pas à bloquer la réélection de Tusk à Bruxelles</title>
+  <description>Le président du Conseil européen reconduit dans ses fonctions à vingt-sept voix contre une, celle de la Pologne. Les ultra-conservateurs polonais avaient fait de cette affaire un casus belli, mais ont été isolés au sommet européen.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Catherine Chatignoux et Gabriel Gresillon</dc:creator>
+  <pubDate>Fri, 10 Mar 2017 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20170310/lec1_monde/0211864593116-marginalisee-la-pologne-ne-parvient-pas-a-bloquer-la-reelection-de-tusk-a-bruxelles-2071289.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2017/03/10/2071289_marginalisee-la-pologne-ne-parvient-pas-a-bloquer-la-reelection-de-tusk-a-bruxelles-web-0211864985414_300x160.jpg"/>
+</item>
+
+<item>
+  <title>M arianne Thyssen : « L'Europe doit lutter contre le dumping social »</title>
+  <description>La commissaire Marianne Thyssen remettra fin avril un rapport sur l'avenir de l'Europe sociale. Elle détaille aux « Echos » les pistes à l'étude.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Derek Perrotte</dc:creator>
+  <pubDate>Fri, 10 Mar 2017 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20170310/lec1_monde/0211856814961-m-arianne-thyssen-leurope-doit-lutter-contre-le-dumping-social-2071233.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2017/03/10/2071233_m-arianne-thyssen-leurope-doit-lutter-contre-le-dumping-social-web-0211863847125_300x160.jpg"/>
+</item>
+
+<item>
+  <title>BCE : Draghi défend l'intégrité et l'irréversibilité de l'euro</title>
+  <description>La bataille sur le front de l'inflation n'est pas encore gagnée.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jean-Philippe Lacour</dc:creator>
+  <pubDate>Fri, 10 Mar 2017 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20170310/lec1_monde/0211864174322-bce-draghi-defend-lintegrite-et-lirreversibilite-de-leuro-2071181.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2017/03/10/2071181_bce-draghi-defend-lintegrite-et-lirreversibilite-de-leuro-web-0211864841648_300x160.jpg"/>
+</item>
+
+<item>
+  <title>Chômage frontalier : le changement de règle qui peut rapporter gros à la France</title>
+  <description>Bruxelles veut transférer à l'Etat d'accueil la couverture chômage des frontaliers. Le système actuel a coûté 600 millions à la France en 2016.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Derek Perrotte</dc:creator>
+  <pubDate>Fri, 10 Mar 2017 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20170310/lec1_monde/0211863023468-chomage-frontalier-le-changement-de-regle-qui-peut-rapporter-gros-a-la-france-2071263.php#xtor=RSS-37</link>
+</item>
+
+<item>
+  <title>Réforme fiscale controversée au Royaume-Uni</title>
+  <description>Le gouvernement veut augmenter les cotisations des indépendants, revenant sur une promesse électorale.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Vincent Collen</dc:creator>
+  <pubDate>Fri, 10 Mar 2017 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20170310/lec1_monde/0211864043930-reforme-fiscale-controversee-au-royaume-uni-2071206.php#xtor=RSS-37</link>
+</item>
+
+<item>
+  <title>L'Italie adopte un revenu mensuel d'insertion de 480 euros</title>
+  <description>Le Parlement italien a approuvé jeudi un plan de lutte contre la pauvreté, qui prévoit le versement sous conditions de 480 euros par mois aux plus défavorisés. « Pour la première fois, notre pays sera doté d'un instrument national et structurel de lutte contre la pauvreté, le revenu d'inclusion...</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Les Echos</dc:creator>
+  <pubDate>Fri, 10 Mar 2017 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20170310/lec1_monde/0211864392149-litalie-adopte-un-revenu-mensuel-dinsertion-de-480-euros-2071290.php#xtor=RSS-37</link>
+</item>
+
+<item>
+  <title>Trump lève un peu le voile sur son plan d'infrastructures</title>
+  <description>Pour son plan à 1.000 milliards de dollars, le président américain dit rêver « vraiment grand ». Il devrait obtenir le soutien des démocrates au Congrès.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Elsa Conesa</dc:creator>
+  <pubDate>Fri, 10 Mar 2017 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20170310/lec1_monde/0211863796556-trump-leve-un-peu-le-voile-sur-son-plan-dinfrastructures-2071172.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2017/03/10/2071172_trump-leve-un-peu-le-voile-sur-son-plan-dinfrastructures-web-0211864545966_300x160.jpg"/>
+</item>
+
+<item>
+  <title>Les prototypes du mur avec le Mexique sont déposés ce jour</title>
+  <description>L'administration américaine avance et le mur se rapproche. Les candidats à la conception et la construction du mur avec le Mexique (ou son renforcement, car une bonne partie des 2.000 kilomètres à faire d'ici 2020 existent déjà) ont jusqu'à aujourd'hui 10 mars pour présenter leurs concepts sous...</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Myriam Chauvot</dc:creator>
+  <pubDate>Fri, 10 Mar 2017 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20170310/lec1_monde/0211864066354-les-prototypes-du-mur-avec-le-mexique-sont-deposes-ce-jour-2071173.php#xtor=RSS-37</link>
+</item>
+
+<item>
+  <title>Les trois transformations qui mettent sous pression le CAC 40</title>
+  <description>Défiées de toutes parts par les disrupteurs de l'économie que sont les Gafa ou les licornes, les entreprises du CAC 40 organisent leur transformation sous l'impulsion de trois chocs : la disparition des barrières à l'entrée, l'effondrement des rentes et la mutation du capitalisme financier.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Laurent Flallo</dc:creator>
+  <pubDate>Fri, 10 Mar 2017 01:00:00 +0200</pubDate>
+  <category>Idées - Débats</category>
+  <link>http://www.lesechos.fr/idees-debats/editos-analyses/0211860076232-les-trois-transformations-qui-mettent-sous-pression-le-cac-40-2071170.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2017/03/10/2071170_les-trois-transformations-qui-mettent-sous-pression-le-cac-40-web-0211864842043_300x160.jpg"/>
+</item>
+
+<item>
+  <title>Pas de fatalité au déficit</title>
+  <description>L'évolution du marché du travail a dépassé les attentes en 2016, avec 223.000 postes créés dans le secteur privé, selon le baromètre de l'Acoss, l'organisme qui prélève les cotisations des entreprises. Cette dynamique bénéficie aux régimes sociaux, qui voient leurs recettes progresser...</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Etienne Lefebvre</dc:creator>
+  <pubDate>Fri, 10 Mar 2017 01:00:00 +0200</pubDate>
+  <category>Idées - Débats</category>
+  <link>http://www.lesechos.fr/idees-debats/editos-analyses/0211864435128-pas-de-fatalite-au-deficit-2071171.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2016/12/30/2053497_1483083755_etienne-lefebvre-web-edito_300x160.jpg"/>
+</item>
+
+<item>
+  <title>Six ans après Fukushima, le Japon s'interroge sur le nucléaire</title>
+  <description>« Six ans après "le grand tremblement de terre du Japon" du 11 mars 2011 qui a entraîné un gigantesque tsunami provoquant la fusion de réacteurs à la centrale nucléaire de Fukushima, la reconstruction des zones dévastées est toujours loin d'être achevée », estime l'« Asahi Shimbun ». Selon le...</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jacques Hubert-Rodier</dc:creator>
+  <pubDate>Fri, 10 Mar 2017 01:00:00 +0200</pubDate>
+  <category>Idées - Débats</category>
+  <link>http://www.lesechos.fr/idees-debats/editos-analyses/0211863373484-six-ans-apres-fukushima-le-japon-sinterroge-sur-le-nucleaire-2071212.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2017/03/10/2071212_0211863746784_web.jpg"/>
+</item>
+
+<item>
+  <title>Hôpital : sortir de la guerre public-privé</title>
+  <description>La guerre qui fait rage entre les hôpitaux publics et privés, au travers de leurs fédérations respectives, ne peut que nuire à la qualité des prestations offertes par le système de santé français. Tant que les deux parties s'affronteront dans un combat stérile, nous y perdrons tous, malades en...</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Guy Vallancien</dc:creator>
+  <pubDate>Fri, 10 Mar 2017 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20170310/lec1_idees_et_debats/0211817235118-hopital-sortir-de-la-guerre-public-prive-2071246.php#xtor=RSS-37</link>
+</item>
+
+<item>
+  <title>L'Europe a besoin d'un langage de vérité</title>
+  <description>On l'a dit et redit, dans nos sociétés fébriles qui aiment à se faire peur, l'Europe est aujourd'hui dos au mur, accablée par la montée des périls. Alarmes externes, avec la remise en question de la solidarité transatlantique, l'agressivité russe ou la vague migratoire. Dangers internes, aussi,...</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Olivier Marty</dc:creator>
+  <pubDate>Fri, 10 Mar 2017 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20170310/lec1_idees_et_debats/0211814282618-leurope-a-besoin-dun-langage-de-verite-2071220.php#xtor=RSS-37</link>
+</item>
+
+<item>
+  <title>Argent et politique : tout ce qui reste à faire</title>
+  <description>Malgré les affaires, et à cause d'elles, la transparence gagne du terrain dans la vie politique française. Mais le financement des partis reste un point noir majeur.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Benoit Georges</dc:creator>
+  <pubDate>Fri, 10 Mar 2017 01:00:00 +0200</pubDate>
+  <category>Idées - Débats</category>
+  <link>http://www.lesechos.fr/idees-debats/livres/0211863045661-argent-et-politique-tout-ce-qui-reste-a-faire-2071299.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2017/03/10/2071299_argent-et-politique-tout-ce-qui-reste-a-faire-web-0211863607322.jpg"/>
+</item>
+
+<item>
+  <title>Les petits billets d'Etienne Klein</title>
+  <description>Il est de très rares scientifiques que l'on adore entendre parler non seulement de science, mais encore de religion, de politique ou de rock and roll. Etienne Klein, grand amateur des Rolling Stones et talentueux vulgarisateur de la physique moderne, fait partie de cet aréopage ultra-restreint....</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Yann Verdo</dc:creator>
+  <pubDate>Fri, 10 Mar 2017 01:00:00 +0200</pubDate>
+  <category>Idées - Débats</category>
+  <link>http://www.lesechos.fr/idees-debats/sciences-prospective/0211861063789-les-petits-billets-detienne-klein-2071282.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2017/03/10/2071282_les-petits-billets-detienne-klein-web-0211863606393.jpg"/>
+</item>
+
+<item>
+  <title>Philippe Wahl : « On ne peut pas être dirigeant si on n'est pas optimiste »</title>
+  <description>Vous avez lancé en 2014 un plan de transformation de La Poste. Où en êtes-vous ?
+Nous sommes à mi-parcours. Notre objectif est de modifier notre modèle d'affaires pour compenser le déclin structurel du courrier, qui recule de 5 % par an, par l'émergence de nouvelles activités. D'un point de vue...</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Lionel Steinmann et David Barroux</dc:creator>
+  <pubDate>Fri, 10 Mar 2017 01:00:00 +0200</pubDate>
+  <category>Industrie - Services</category>
+  <link>http://www.lesechos.fr/industrie-services/tourisme-transport/0211861507457-philippe-wahl-on-ne-peut-pas-etre-dirigeant-si-on-nest-pas-optimiste-2071230.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2017/03/10/2071230_philippe-wahl-on-ne-peut-pas-etre-dirigeant-si-on-nest-pas-optimiste-web-0211864049444_300x160.jpg"/>
+</item>
+
+<item>
+  <title>Au Caire, un trésor archéologique découvert dans un bidonville</title>
+  <description>Des archéologues égyptiens et allemands ont découvert une statue de huit mètres de haut sous les eaux. Selon eux, elle serait une représentation du fameux pharaon Ramsès II, qui a gouverné l'Egypte il y a plus de trois mille ans (1279 à 1213 avant...</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Les Echos</dc:creator>
+  <pubDate>Fri, 10 Mar 2017 01:00:00 +0200</pubDate>
+  <category>Monde</category>
+  <link>http://www.lesechos.fr/monde/afrique-moyen-orient/0211865168986-au-caire-un-tresor-archeologique-decouvert-dans-un-bidonville-2071254.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2017/03/10/2071254_au-caire-un-tresor-archeologique-decouvert-dans-un-bidonville-web-0211865134019.jpg"/>
+</item>
+
+<item>
+  <title>Facebook a passé le cap des 400 milliards de dollars à Wall Street</title>
+  <description>Le groupe est aujourd'hui la sixième capitalisation boursière mondiale.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Nicolas Richaud</dc:creator>
+  <pubDate>Fri, 10 Mar 2017 01:00:00 +0200</pubDate>
+  <category>Tech - Médias</category>
+  <link>http://www.lesechos.fr/tech-medias/hightech/0211864602838-facebook-a-passe-le-cap-des-400-milliards-de-dollars-a-wall-street-2071213.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2017/03/10/2071213_facebook-a-passe-le-cap-des-400-milliards-de-dollars-a-wall-street-web-0211864890262.jpg"/>
+</item>
+
+<item>
+  <title>Atos entre pour la première fois dans l'indice CAC 40</title>
+  <description>C'est le premier changement au sein de l'indice CAC 40 depuis un an. En mars 2016, Sodexo avait remplacé Alstom. Un an plus tard, la société de services informatiques Atos s'apprête à prendre la place de la foncière Klépierre au sein de l'indice phare de la Bourse de Paris. Tous les trimestres, le...</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Pierrick Fay</dc:creator>
+  <pubDate>Fri, 10 Mar 2017 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20170310/lec2_entreprise_et_marches/0211865138009-atos-entre-pour-la-premiere-fois-dans-lindice-cac-40-2071165.php#xtor=RSS-37</link>
+</item>
+
+<item>
+  <title>A la peine en France, Carrefour se tourne vers l'avenir</title>
+  <description>Le résultat est pénalisé par la guerre des prix et par Dia dans l'Hexagone. Les bonnes performances en Europe et au Brésil ne compensent pas.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Philippe Bertrand</dc:creator>
+  <pubDate>Fri, 10 Mar 2017 01:00:00 +0200</pubDate>
+  <category>Industrie - Services</category>
+  <link>http://www.lesechos.fr/industrie-services/conso-distribution/0211863924483-a-la-peine-en-france-carrefour-se-tourne-vers-lavenir-2071231.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2017/03/10/2071231_0211863944042_web_300x160.jpg"/>
+</item>
+
+<item>
+  <title>Il a dit</title>
+  <description/>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Philippe Bertrand</dc:creator>
+  <pubDate>Fri, 10 Mar 2017 01:00:00 +0200</pubDate>
+  <category>Industrie - Services</category>
+  <link>http://www.lesechos.fr/industrie-services/conso-distribution/0211864248901-il-a-dit-2071164.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2017/03/10/2071164_il-a-dit-web-0211864537652.jpg"/>
+</item>
+
+<item>
+  <title>Georges Plassat acte un changement de modèle</title>
+  <description>Commerçant alimentaire de référence. » La nouvelle signature de Carrefour reflète le changement de modèle du distributeur. Dans un discours en forme de bilan, prélude à la présentation des résultats 2016, Georges Plassat n'a pas relégué l'hypermarché au musée. Mais il l'a qualifié de « socle...</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Philippe Bertrand</dc:creator>
+  <pubDate>Fri, 10 Mar 2017 01:00:00 +0200</pubDate>
+  <category>Industrie - Services</category>
+  <link>http://www.lesechos.fr/industrie-services/conso-distribution/0211863615492-georges-plassat-acte-un-changement-de-modele-2071167.php#xtor=RSS-37</link>
+</item>
+
+<item>
+  <title>Wizz Air, la jeune low cost de l'Est qui résiste à Ryanair</title>
+  <description>Wizz Air est devenu, en treize ans, la première compagnie d'Europe centrale. Il affiche la croissance la plus rapide du ciel européen.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Bruno Trevidic</dc:creator>
+  <pubDate>Fri, 10 Mar 2017 01:00:00 +0200</pubDate>
+  <category>Industrie - Services</category>
+  <link>http://www.lesechos.fr/industrie-services/tourisme-transport/0211864070827-wizz-air-la-jeune-low-cost-de-lest-qui-resiste-a-ryanair-2071175.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2017/03/10/2071175_wizz-air-la-jeune-low-cost-de-lest-qui-resiste-a-ryanair-web-0211864049942.jpg"/>
+</item>
+
+<item>
+  <title>József Váradi : « Notre valorisation boursière est supérieure à celle d'Air France-KLM »</title>
+  <description>Wizz Air se définit comme une compagnie « ultra-low cost ». En quoi êtes-vous différent ?
+Notre priorité est d'atteindre un coût au siège inférieur à ceux de nos concurrents, afin de permettre au plus grand nombre de prendre l'avion. En Europe de l'Ouest, 40 % de la population prend régulièrement...</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Bruno Trevidic</dc:creator>
+  <pubDate>Fri, 10 Mar 2017 01:00:00 +0200</pubDate>
+  <category>Industrie - Services</category>
+  <link>http://www.lesechos.fr/industrie-services/tourisme-transport/0211863962736-jozsef-varadi-notre-valorisation-boursiere-est-superieure-a-celle-dair-france-klm-2071318.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2017/03/10/2071318_jozsef-varadi-notre-valorisation-boursiere-est-superieure-a-celle-dair-france-klm-web-0211864049893.jpg"/>
+</item>
+
+<item>
+  <title>Suez : l'achat de GE Water reçoit un accueil mitigé</title>
+  <description>L'action de Suez a baissé à la suite de cet achat à 3,2 milliards d'euros, avant de se redresser.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Myriam Chauvot</dc:creator>
+  <pubDate>Fri, 10 Mar 2017 01:00:00 +0200</pubDate>
+  <category>Industrie - Services</category>
+  <link>http://www.lesechos.fr/industrie-services/services-conseils/0211864211419-suez-lachat-de-ge-water-recoit-un-accueil-mitige-2071210.php#xtor=RSS-37</link>
+</item>
+
+<item>
+  <title>Vaccins : les grands laboratoires mettent le cap vers les pays du Sud</title>
+  <description>GSK et Sanofi sont très présents, mais J&amp;J, Takeda et Daiichi-Sankyo affichent aussi un intérêt croissant. Merck et Pfizer lèvent par contre le pied en R&amp;D, selon une étude d'Access to Medecine Foundation.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Catherine Ducruet</dc:creator>
+  <pubDate>Fri, 10 Mar 2017 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20170310/lec2_industrie_et_services/0211863532160-vaccins-les-grands-laboratoires-mettent-le-cap-vers-les-pays-du-sud-2071302.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2017/03/10/2071302_vaccins-les-grands-laboratoires-mettent-le-cap-vers-les-pays-du-sud-web-0211864537032_300x160.jpg"/>
+</item>
+
+<item>
+  <title>Novartis étend son programme de médicaments à un dollar le traitement mensuel</title>
+  <description>Les maladies chroniques doivent d'abord être diagnostiquées pour qu'une demande pour ses médicaments se manifeste.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Catherine Ducruet</dc:creator>
+  <pubDate>Fri, 10 Mar 2017 01:00:00 +0200</pubDate>
+  <category>Industrie - Services</category>
+  <link>http://www.lesechos.fr/industrie-services/pharmacie-sante/0211863705337-novartis-etend-son-programme-de-medicaments-a-un-dollar-le-traitement-mensuel-2071248.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2017/03/10/2071248_novartis-etend-son-programme-de-medicaments-a-un-dollar-le-traitement-mensuel-web-0211864537055.jpg"/>
+</item>
+
+<item>
+  <title>Akzo riposte à l'OPA hostile de l'américain PPG</title>
+  <description>Pour contrecarrer l'offre de PPG, le groupe néerlandais envisage de céder son pôle de chimie de spécialité.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Didier Burg</dc:creator>
+  <pubDate>Fri, 10 Mar 2017 01:00:00 +0200</pubDate>
+  <category>Industrie - Services</category>
+  <link>http://www.lesechos.fr/industrie-services/industrie-lourde/0211864067639-akzo-riposte-a-lopa-hostile-de-lamericain-ppg-2071217.php#xtor=RSS-37</link>
+</item>
+
+<item>
+  <title>Des profits record, mais une marge en baisse chez BMW</title>
+  <description>Les revenus et profits du géant bavarois ont progressé en 2016, mais sa marge dans l'auto passe de 9,2 % à 8,9 %. Sanctionné en Bourse, le groupe met en avant ses investissements technologiques.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Maxime Amiot et Jean-Philippe Lacour</dc:creator>
+  <pubDate>Fri, 10 Mar 2017 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20170310/lec2_industrie_et_services/0211863209247-des-profits-record-mais-une-marge-en-baisse-chez-bmw-2071143.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2017/03/10/2071143_0211863437976_web_300x160.jpg"/>
+</item>
+
+<item>
+  <title>Fukushima : le chantier ne cesse de se compliquer</title>
+  <description>Six ans après la destruction de sa centrale, Tepco peine toujours à localiser le combustible fondu au fond de trois réacteurs.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Yann Rousseau</dc:creator>
+  <pubDate>Fri, 10 Mar 2017 01:00:00 +0200</pubDate>
+  <category>Industrie - Services</category>
+  <link>http://www.lesechos.fr/industrie-services/energie-environnement/0211864066935-fukushima-le-chantier-ne-cesse-de-se-compliquer-2071241.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2017/03/10/2071241_fukushima-le-chantier-ne-cesse-de-se-compliquer-web-0211864537676_300x160.jpg"/>
+</item>
+
+<item>
+  <title>Lego mise sur une croissance plus modérée, en ligne avec le marché</title>
+  <description>Le danois a affiché une croissance à un chiffre en 2016. Une première depuis dix ans. Le fabricant mise désormais sur un développement plus modéré, vu sa taille.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Dominique Chapuis</dc:creator>
+  <pubDate>Fri, 10 Mar 2017 01:00:00 +0200</pubDate>
+  <category>Industrie - Services</category>
+  <link>http://www.lesechos.fr/industrie-services/conso-distribution/0211863827187-lego-mise-sur-une-croissance-plus-moderee-en-ligne-avec-le-marche-2071215.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2017/03/10/2071215_lego-mise-sur-une-croissance-plus-moderee-en-ligne-avec-le-marche-web-0211864689498_300x160.jpg"/>
+</item>
+
+<item>
+  <title>Lactalis contraint d'améliorer son offre sur Parmalat</title>
+  <description>Le géant laitier offre désormais 3 euros par action pour sortir sa filiale de la Bourse.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Olivier Tosseri</dc:creator>
+  <pubDate>Fri, 10 Mar 2017 01:00:00 +0200</pubDate>
+  <category>Industrie - Services</category>
+  <link>http://www.lesechos.fr/industrie-services/conso-distribution/0211864291672-lactalis-contraint-dameliorer-son-offre-sur-parmalat-2071272.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2017/03/10/2071272_lactalis-contraint-dameliorer-son-offre-sur-parmalat-web-0211863343912.jpg"/>
+</item>
+
+<item>
+  <title>La Cour des comptes veut une réforme du Dalo</title>
+  <description>Dans un référé à la ministre du Logement, la Cour juge le dispositif peu efficace et coûteux. Elle propose plusieurs pistes d'amélioration.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Catherine Sabbah</dc:creator>
+  <pubDate>Fri, 10 Mar 2017 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20170310/lec2_industrie_et_services/0211864027224-la-cour-des-comptes-veut-une-reforme-du-dalo-2071174.php#xtor=RSS-37</link>
+</item>
+
+<item>
+  <title>Foot : la Ligue 1 sort du rouge grâce aux transferts et à la télé</title>
+  <description>La L1 affiche un profit cumulé de 20,5 millions d'euros pour 2015-2016. Mais sa perte d'exploitation hors transferts a crû de 27 %, à 317,4 millions.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Christophe Palierse</dc:creator>
+  <pubDate>Fri, 10 Mar 2017 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20170310/lec2_industrie_et_services/0211863760375-foot-la-ligue-1-sort-du-rouge-grace-aux-transferts-et-a-la-tele-2071198.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2017/03/10/2071198_0211864318404_web_300x160.jpg"/>
+</item>
+
+<item>
+  <title>PSG : au-delà de l'échec sportif, celui d'une stratégie</title>
+  <description>La défaite du PSG face au Barça, mercredi, souligne son incapacité à se hisser, comme il se l'était fixé, au plus haut niveau européen.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Elsa Dicharry</dc:creator>
+  <pubDate>Fri, 10 Mar 2017 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20170310/lec2_industrie_et_services/0211863467615-psg-au-dela-de-lechec-sportif-celui-dune-strategie-2071205.php#xtor=RSS-37</link>
+</item>
+
+<item>
+  <title>Un nouveau pont entre la France et la Chine</title>
+  <description>Avec son programme Young Leaders, la France China Foundation tisse des liens entre la France et la Chine.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">David Barroux</dc:creator>
+  <pubDate>Fri, 10 Mar 2017 01:00:00 +0200</pubDate>
+  <category>Monde</category>
+  <link>http://www.lesechos.fr/monde/chine/0211856783790-un-nouveau-pont-entre-la-france-et-la-chine-2071189.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2017/03/10/2071189_un-nouveau-pont-entre-la-france-et-la-chine-web-0211864184230.jpg"/>
+</item>
+
+<item>
+  <title>Les candidats à la présidentielle prennent position sur le numérique</title>
+  <description>Les professionnels du secteur organisaient un débat jeudi. Si l'enjeu fait consensus, les solutions diffèrent.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Sebastien Dumoulin</dc:creator>
+  <pubDate>Fri, 10 Mar 2017 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20170310/lec2_high_tech_et_medias/0211864060964-les-candidats-a-la-presidentielle-prennent-position-sur-le-numerique-2071168.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2017/03/10/2071168_les-candidats-a-la-presidentielle-prennent-position-sur-le-numerique-web-0211864689381_300x160.jpg"/>
+</item>
+
+<item>
+  <title>Havas met en place une organisation par pays</title>
+  <description>Havas fusionne ses deux divisions Havas Media et Havas Creative. Dominique Delport devient numéro deux.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Véronique Richebois</dc:creator>
+  <pubDate>Fri, 10 Mar 2017 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20170310/lec2_high_tech_et_medias/0211865170459-havas-met-en-place-une-organisation-par-pays-2071228.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2017/03/10/2071228_havas-met-en-place-une-organisation-par-pays-web-0211864765203_300x160.jpg"/>
+</item>
+
+<item>
+  <title>Le Medef veut faire de la France la Silicon Valley des objets connectés</title>
+  <description>L'organisation patronale propose un plan d'action pour profiter de la mutation de l'économie numérique.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Romain Gueugneau</dc:creator>
+  <pubDate>Fri, 10 Mar 2017 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20170310/lec2_high_tech_et_medias/0211863799641-le-medef-veut-faire-de-la-france-la-silicon-valley-des-objets-connectes-2071188.php#xtor=RSS-37</link>
+</item>
+
+<item>
+  <title>SFR à nouveau épinglé par l'Autorité de la concurrence</title>
+  <description>L'opérateur écope de 40 millions d'euros d'amende pour non- respect d'engagements pris lors de la fusion avec Numericable. SFR plaide non coupable et va faire appel de la décision.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Fabienne Schmitt</dc:creator>
+  <pubDate>Fri, 10 Mar 2017 01:00:00 +0200</pubDate>
+  <category>Tech - Médias</category>
+  <link>http://www.lesechos.fr/tech-medias/hightech/0211863684097-sfr-a-nouveau-epingle-par-lautorite-de-la-concurrence-2071256.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2017/03/10/2071256_sfr-a-nouveau-epingle-par-lautorite-de-la-concurrence-web-0211864052693.jpg"/>
+</item>
+
+<item>
+  <title>Fujitsu investit 50 millions en France</title>
+  <description>Le japonais va notamment créer un centre d'excellence sur l'intelligence artificielle. Il sera logé au sein de l'incubateur de l'Ecole polytechnique.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Sebastien Dumoulin</dc:creator>
+  <pubDate>Fri, 10 Mar 2017 01:00:00 +0200</pubDate>
+  <category>Idées - Débats</category>
+  <link>http://www.lesechos.fr/idees-debats/sciences-prospective/0211863806481-fujitsu-investit-50-millions-en-france-2071155.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2017/03/10/2071155_fujitsu-investit-50-millions-en-france-web-0211864052611.jpg"/>
+</item>
+
+<item>
+  <title>RTL : l'anomalie comptable est de 11 millions</title>
+  <description>C'est ce qu'a annoncé sa maison mère RTL Group à l'occasion de la publication de résultats 2016.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Nicolas Madelaine</dc:creator>
+  <pubDate>Fri, 10 Mar 2017 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20170310/lec2_high_tech_et_medias/0211863692962-rtl-lanomalie-comptable-est-de-11-millions-2071243.php#xtor=RSS-37</link>
+</item>
+
+<item>
+  <title>Axel Springer refuse de s'allier à Facebook contre les « fake news »</title>
+  <description>Le groupe de presse allemand présente des résultats annuels solides.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Thibaut Madelin</dc:creator>
+  <pubDate>Fri, 10 Mar 2017 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20170310/lec2_high_tech_et_medias/0211863857504-axel-springer-refuse-de-sallier-a-facebook-contre-les-fake-news-2071292.php#xtor=RSS-37</link>
+</item>
+
+<item>
+  <title>Les Millennials, une génération aux commandes de la foodtech</title>
+  <description>Les 18-35 ans modifient drastiquement les comportements autour des questions de nourriture. Les start-up les plus disruptives du secteur sont pilotées par cette génération.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Guillaume Bregeras</dc:creator>
+  <pubDate>Fri, 10 Mar 2017 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20170310/lec2_startup/0211864085054-les-millennials-une-generation-aux-commandes-de-la-foodtech-2071154.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2017/03/10/2071154_0211862250185_web.jpg"/>
+</item>
+
+<item>
+  <title>Valorial fait son marché aux Etats-Unis</title>
+  <description>Le pôle de compétitivité dédié à la nutrition de demain chasse sur les terres de la foodtech.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Stanislas Du Guerny</dc:creator>
+  <pubDate>Fri, 10 Mar 2017 01:00:00 +0200</pubDate>
+  <category>Idées - Débats</category>
+  <link>http://www.lesechos.fr/idees-debats/sciences-prospective/0211863682303-valorial-fait-son-marche-aux-etats-unis-2071161.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2017/03/10/2071161_valorial-fait-son-marche-aux-etats-unis-web-0211864438283.jpg"/>
+</item>
+
+<item>
+  <title>En quête des aliments de demain</title>
+  <description>Installé à Rennes dans les espaces de l'agrocampus et disposant d'antennes à Nantes et à Caen, Valorial rassemble 350 adhérents. La majorité sont des entreprises de l'agroalimentaire souvent de taille moyenne où les innovations sont parfois difficiles à engager car elles manquent de moyens...</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Stanislas Du Guerny</dc:creator>
+  <pubDate>Fri, 10 Mar 2017 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20170310/lec2_startup/0211863066879-en-quete-des-aliments-de-demain-2071271.php#xtor=RSS-37</link>
+</item>
+
+<item>
+  <title>Instacart, la pépite qui vaut 3,4 milliards de dollars</title>
+  <description>Positionnée sur le segment de la livraison de courses à domicile, la jeune pousse américaine vient de lever 400 millions de dollars.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Nicolas Richaud</dc:creator>
+  <pubDate>Fri, 10 Mar 2017 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20170310/lec2_startup/0211863699102-instacart-la-pepite-qui-vaut-34-milliards-de-dollars-2071311.php#xtor=RSS-37</link>
+</item>
+
+<item>
+  <title>Une biennale qui booste l'image de Saint-Etienne</title>
+  <description>La cité rhônalpine a créé un véritable écosystème autour du design.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Denis Meynard</dc:creator>
+  <pubDate>Fri, 10 Mar 2017 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20170310/lec2_pme_et_regions/0211858616962-une-biennale-qui-booste-limage-de-saint-etienne-2071140.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2017/03/10/2071140_une-biennale-qui-booste-limage-de-saint-etienne-web-0211863365226_300x160.jpg"/>
+</item>
+
+<item>
+  <title>La recherche sur les machines à découper de Lectra renforcée</title>
+  <description>Le numéro un mondial des machines à découper le tissu investit 10 millions en Gironde. Une centaine d'ingénieurs seront recrutés.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Frank Niedercorn</dc:creator>
+  <pubDate>Fri, 10 Mar 2017 01:00:00 +0200</pubDate>
+  <category>PME - Régions</category>
+  <link>http://www.lesechos.fr/pme-regions/actualite-pme/0211859851238-la-recherche-sur-les-machines-a-decouper-de-lectra-renforcee-2071270.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2017/03/10/2071270_la-recherche-sur-les-machines-a-decouper-de-lectra-renforcee-web-0211863365589_300x160.jpg"/>
+</item>
+
+<item>
+  <title>Le spécialiste des parfums Robertet va investir 40 millions d'euros à Grasse</title>
+  <description>Le groupe crée une nouvelle unité d'extraction de matières premières naturelles et optimise sa logistique.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Christiane Navas</dc:creator>
+  <pubDate>Fri, 10 Mar 2017 01:00:00 +0200</pubDate>
+  <category>PME - Régions</category>
+  <link>http://www.lesechos.fr/pme-regions/actualite-pme/0211787881820-le-specialiste-des-parfums-robertet-va-investir-40-millions-deuros-a-grasse-2071177.php#xtor=RSS-37</link>
+</item>
+
+<item>
+  <title>Le belge Galapagos mise sur Pharnext pour sa pléothérapie</title>
+  <description>C'est un tournant décisif pour Pharnext. Ce jeudi, la société francilienne a annoncé un accord de R&amp;D majeur avec l'entreprise belge Galapagos, qui mise sur sa plate-forme de pléothérapie. Unique au monde, cette approche consiste à créer des traitements inédits en combinant, à faibles doses, des...</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Chantal Houzelle</dc:creator>
+  <pubDate>Fri, 10 Mar 2017 01:00:00 +0200</pubDate>
+  <category>PME - Régions</category>
+  <link>http://www.lesechos.fr/pme-regions/innovateurs/0211852819339-le-belge-galapagos-mise-sur-pharnext-pour-sa-pleotherapie-2071252.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2017/03/10/2071252_le-belge-galapagos-mise-sur-pharnext-pour-sa-pleotherapie-web-0211863365397.jpg"/>
+</item>
+
+<item>
+  <title>Kiplin introduit l'activité physique ludique en entreprise</title>
+  <description>Parcourir un tour du monde ou la Route 66, escalader le mont Fuji… Ces voyages virtuels, Kiplin propose aux entreprises de les effectuer collectivement avec leurs salariés, avec une solution associant une plate-forme et un objet connecté : podomètre, vélo, « stepper »… A l'heure où paraît le décret...</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Emmanuel Guimard</dc:creator>
+  <pubDate>Fri, 10 Mar 2017 01:00:00 +0200</pubDate>
+  <category>PME - Régions</category>
+  <link>http://www.lesechos.fr/pme-regions/innovateurs/0211853669411-kiplin-introduit-lactivite-physique-ludique-en-entreprise-2071224.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2017/03/10/2071224_kiplin-introduit-lactivite-physique-ludique-en-entreprise-web-0211863365420.jpg"/>
+</item>
+
+<item>
+  <title>Etat des lieux du secteur</title>
+  <description/>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Les Echos</dc:creator>
+  <pubDate>Fri, 10 Mar 2017 01:00:00 +0200</pubDate>
+  <category>Finance - Marchés</category>
+  <link>http://www.lesechos.fr/finance-marches/banque-assurances/0211865110968-etat-des-lieux-du-secteur-2071151.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2017/03/10/2071151_0211864899098_web.jpg"/>
+</item>
+
+<item>
+  <title>Evénements climatiques : une charge de 2,3 milliards en 2016</title>
+  <description>Les différents événements climatiques survenus en France en 2016 ont coûté 2,3 milliards d'euros aux assureurs français, dont 1,3 milliard d'euros pour les inondations de mai et juin, selon un chiffrage publié jeudi par la Fédération française de l'assurance. C'est au-dessus de la moyenne des huit...</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Les Echos</dc:creator>
+  <pubDate>Fri, 10 Mar 2017 01:00:00 +0200</pubDate>
+  <category>Finance - Marchés</category>
+  <link>http://www.lesechos.fr/finance-marches/banque-assurances/0211864565588-evenements-climatiques-une-charge-de-23-milliards-en-2016-2071276.php#xtor=RSS-37</link>
+</item>
+
+<item>
+  <title>Aviva touché par une réforme de l'indemnisation des victimes</title>
+  <description>L'assureur britannique voit son bénéfice net reculer de 22 %. Il affiche néanmoins de bons résultats et va rendre de l'argent à ses actionnaires.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Vincent Collen</dc:creator>
+  <pubDate>Fri, 10 Mar 2017 01:00:00 +0200</pubDate>
+  <category>Finance - Marchés</category>
+  <link>http://www.lesechos.fr/finance-marches/banque-assurances/0211863276232-aviva-touche-par-une-reforme-de-lindemnisation-des-victimes-2071186.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2017/03/10/2071186_aviva-touche-par-une-reforme-de-lindemnisation-des-victimes-web-0211864438369_300x160.jpg"/>
+</item>
+
+<item>
+  <title>Résultats : le CAC 40 réalise sa meilleure année depuis 2010</title>
+  <description>Les profits du CAC 40 ont bondi de 32,6 % à près de 74 milliards d'euros. BNP Paribas, Axa et Total affichent les plus gros bénéfices de l'indice.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Pierrick Fay</dc:creator>
+  <pubDate>Fri, 10 Mar 2017 01:00:00 +0200</pubDate>
+  <category>Finance - Marchés</category>
+  <link>http://www.lesechos.fr/finance-marches/marches-financiers/0211863219597-resultats-le-cac-40-realise-sa-meilleure-annee-depuis-2010-2071313.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2017/03/10/2071313_0211864062852_web.jpg"/>
+</item>
+
+<item>
+  <title>Ils ont dit</title>
+  <description/>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Les Echos</dc:creator>
+  <pubDate>Fri, 10 Mar 2017 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20170310/lec2_finance_et_marches/0211864404174-ils-ont-dit-2071310.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2017/03/10/2071310_ils-ont-dit-web-0211864239501_300x160.jpg"/>
+</item>
+
+<item>
+  <title>Pétrole : le baril rechute sous la barre des 50 dollars aux Etats-Unis</title>
+  <description>Le niveau des stocks de brut aux Etats-Unis fait douter les marchés. L'ampleur du rebond de la production de pétrole de schiste aux Etats-Unis pose aussi question.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Anne Feitz</dc:creator>
+  <pubDate>Fri, 10 Mar 2017 01:00:00 +0200</pubDate>
+  <category>Industrie - Services</category>
+  <link>http://www.lesechos.fr/industrie-services/energie-environnement/0211864003780-petrole-le-baril-rechute-sous-la-barre-des-50-dollars-aux-etats-unis-2071260.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2017/03/10/2071260_0211863969717_web.jpg"/>
+</item>
+
+<item>
+  <title>Un géant asiatique chamboule le marché du sucre</title>
+  <description>Le singapourien Wilmar a acheté pour 2,3 milliards de dollars de sucre sur le marché à terme depuis 2015.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Muryel Jacque</dc:creator>
+  <pubDate>Fri, 10 Mar 2017 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20170310/lec2_finance_et_marches/0211863934174-un-geant-asiatique-chamboule-le-marche-du-sucre-2071238.php#xtor=RSS-37</link>
+</item>
+
+<item>
+  <title>Abu Dhabi victime d'une escroquerie financière</title>
+  <description>Une fraude de 355 millions de dollars a fait 3.700 victimes.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Nessim Ait-Kacimi</dc:creator>
+  <pubDate>Fri, 10 Mar 2017 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20170310/lec2_finance_et_marches/0211863769558-abu-dhabi-victime-dune-escroquerie-financiere-2071245.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2017/03/10/2071245_abu-dhabi-victime-dune-escroquerie-financiere-web-0211864438546_300x160.jpg"/>
+</item>
+
+<item>
+  <title>Sévères réquisitions contre Pérol en appel</title>
+  <description>L'avocat général a requis deux ans de prison avec sursis et 30.000 euros d'amende.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Valerie de Senneville</dc:creator>
+  <pubDate>Fri, 10 Mar 2017 01:00:00 +0200</pubDate>
+  <category>Finance - Marchés</category>
+  <link>http://www.lesechos.fr/finance-marches/banque-assurances/0211864669179-severes-requisitions-contre-perol-en-appel-2071187.php#xtor=RSS-37</link>
+</item>
+
+<item>
+  <title>Les trois plus grandes campagnes</title>
+  <description/>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Les Echos</dc:creator>
+  <pubDate>Fri, 10 Mar 2017 01:00:00 +0200</pubDate>
+  <category>Finance - Marchés</category>
+  <link>http://www.lesechos.fr/finance-marches/banque-assurances/0211864103011-les-trois-plus-grandes-campagnes-2071304.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2017/03/10/2071304_les-trois-plus-grandes-campagnes-web-0211864765597.jpg"/>
+</item>
+
+<item>
+  <title>Les plates-formes américaines repartent à l'offensive</title>
+  <description>Après l'année catastrophe connue par Lending Club, les plates-formes de prêts Prosper et SoFi enchaînent les annonces record.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Edouard Lederer</dc:creator>
+  <pubDate>Fri, 10 Mar 2017 01:00:00 +0200</pubDate>
+  <category>Finance - Marchés</category>
+  <link>http://www.lesechos.fr/finance-marches/banque-assurances/0211864354913-les-plates-formes-americaines-repartent-a-loffensive-2071183.php#xtor=RSS-37</link>
+</item>
+
+<item>
+  <title>Sous pression, le patron d'AIG démissionne</title>
+  <description>Peter Hancock s'opposait à l'idée d'une scission de l'assureur, défendue par les investisseurs Carl Icahn et John Paulson.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Elsa Conesa</dc:creator>
+  <pubDate>Fri, 10 Mar 2017 01:00:00 +0200</pubDate>
+  <category>Finance - Marchés</category>
+  <link>http://www.lesechos.fr/finance-marches/banque-assurances/0211864205544-sous-pression-le-patron-daig-demissionne-2071286.php#xtor=RSS-37</link>
+</item>
+
+<item>
+  <title>La BCE rassure la Bourse de Paris</title>
+  <description>L'effet Draghi fonctionne toujours sur les marchés. La Bourse de Paris a effacé ses pertes jeudi au moment du discours du président de la Banque centrale européenne (BCE) qui a revu en hausse les prévisions d'inflation pour 2017 et s'est montré plus confiant pour la croissance de la zone euro (lire...</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Pierrick Fay</dc:creator>
+  <pubDate>Fri, 10 Mar 2017 01:00:00 +0200</pubDate>
+  <category>Finance - Marchés</category>
+  <link>http://www.lesechos.fr/finance-marches/marches-financiers/0211864327919-la-bce-rassure-la-bourse-de-paris-2071261.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2017/03/10/2071261_0211864571280_web.jpg"/>
+</item>
+
+<item>
+  <title>La Banque mondiale émet des titres liés aux objectifs de l'ONU</title>
+  <description>La Banque mondiale, avec l'appui de BNP Paribas, a émis les premières obligations indexées sur les objectifs mondiaux de développement durable (ODD) des Nations unies, qui ont été fixés en 2015. Le rendement des titres est lié à la performance d'entreprises qui soutiennent les priorités définies...</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Les Echos</dc:creator>
+  <pubDate>Fri, 10 Mar 2017 01:00:00 +0200</pubDate>
+  <category>Finance - Marchés</category>
+  <link>http://www.lesechos.fr/finance-marches/marches-financiers/0211864266182-la-banque-mondiale-emet-des-titres-lies-aux-objectifs-de-lonu-2071190.php#xtor=RSS-37</link>
+</item>
+
+<item>
+  <title>April sanctionné en Bourse après ses résultats</title>
+  <description>Le groupe de services en assurance a vu son résultat net fondre de moitié en 2016.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Laurent Thevenin</dc:creator>
+  <pubDate>Fri, 10 Mar 2017 01:00:00 +0200</pubDate>
+  <category>Finance - Marchés</category>
+  <link>http://www.lesechos.fr/finance-marches/banque-assurances/0211863833155-april-sanctionne-en-bourse-apres-ses-resultats-2071298.php#xtor=RSS-37</link>
+</item>
+
+<item>
+  <title>Ce qui change pour le rattachement des enfants</title>
+  <description>L'entrée en vigueur du prélèvement à la source ne sera pas complètement neutre pour ceux qui choisiront de détacher leurs enfants de leur foyer fiscal en 2017. Explications.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Marie-Christine Sonkin</dc:creator>
+  <pubDate>Fri, 10 Mar 2017 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20170310/lec2_supplement/0211848322959-ce-qui-change-pour-le-rattachement-des-enfants-2071200.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2017/03/10/2071200_0211863862852_web.jpg"/>
+</item>
+
+<item>
+  <title>Un crédit d'impôt pour annuler les prélèvements sur 2017</title>
+  <description>Le prélèvement à la source (PAS) s'applique aux revenus salariaux et de remplacement, aux rentes viagères, et, sous forme d'acomptes, aux revenus de travailleurs indépendants et revenus fonciers. De façon à ce que les contribuables n'aient pas à payer en 2018 un double impôt (et prélèvements...</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Marie-Christine Sonkin</dc:creator>
+  <pubDate>Fri, 10 Mar 2017 01:00:00 +0200</pubDate>
+  <category>Patrimoine</category>
+  <link>http://patrimoine.lesechos.fr/impots/impots-revenu/0211848323124-un-credit-dimpot-pour-annuler-les-prelevements-sur-2017-2071199.php#xtor=RSS-37</link>
+</item>
+
+<item>
+  <title>L'APPARTEMENT de la semaine</title>
+  <description>Retrouvez l'appartement de la semaine sur...</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Les Echos</dc:creator>
+  <pubDate>Fri, 10 Mar 2017 01:00:00 +0200</pubDate>
+  <category>Patrimoine</category>
+  <link>http://patrimoine.lesechos.fr/impots/impots-revenu/0211859627432-lappartement-de-la-semaine-2071227.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2017/03/10/2071227_lappartement-de-la-semaine-web-0211864035099.jpg"/>
+</item>
+
+<item>
+  <title>L'imposition forfaitaire des sociétés offshore est jugée inconstitutionnelle</title>
+  <description>Dimitar Hadjiveltchev Avocat associé, CMS Bureau Francis Lefebvre</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Dimitar Hadjiveltchev</dc:creator>
+  <pubDate>Fri, 10 Mar 2017 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20170310/lec2_supplement/0211856634339-limposition-forfaitaire-des-societes-offshore-est-jugee-inconstitutionnelle-2071242.php#xtor=RSS-37</link>
+</item>
+
+<item>
+  <title>Placements : les robots sont-ils de bon conseil ?</title>
+  <description>Basés sur des algorithmes et sur l'étude du Big Data, les robo-advisors proposent des stratégies d'investissement ou des conseils à leurs clients selon leur profil de risque. Pour quels résultats et à quels prix ?</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Les Echos</dc:creator>
+  <pubDate>Fri, 10 Mar 2017 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20170310/lec2_supplement/0211852605581-placements-les-robots-sont-ils-de-bon-conseil-2071285.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2017/03/10/2071285_0211864016058_web.jpg"/>
+</item>
+
+<item>
+  <title>Des algorithmes au service des épargnants</title>
+  <description>Pour développer leurs offres d'investissement, la plupart des robo-advisors font appel à la « Théorie moderne du portefeuille », développée dans les années 1950, et selon laquelle la diversification des actifs permet d'optimiser le rendement global. Grâce aux algorithmes développés par ces...</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Les Echos</dc:creator>
+  <pubDate>Fri, 10 Mar 2017 01:00:00 +0200</pubDate>
+  <category>Patrimoine</category>
+  <link>http://patrimoine.lesechos.fr/placement/epargne/0211856125408-des-algorithmes-au-service-des-epargnants-2071141.php#xtor=RSS-37</link>
+</item>
+
+<item>
+  <title>Un secteur innovant mais sous contrôle</title>
+  <description>L'AMF et l'ACPR supervisent les activités des robo-advisors.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Les Echos</dc:creator>
+  <pubDate>Fri, 10 Mar 2017 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20170310/lec2_supplement/0211852606169-un-secteur-innovant-mais-sous-controle-2071159.php#xtor=RSS-37</link>
+</item>
+
+<item>
+  <title>Au pays merveilleux des chefs-d'oeuvre de la Tefaf</title>
+  <description>De 100.000 à 25 millions d'euros, une sélection des pièces les plus fascinantes de la plus grande foire d'antiquités au monde, la Tefaf de Maastrich.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Judith Benhamou-Huet</dc:creator>
+  <pubDate>Fri, 10 Mar 2017 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20170310/lec2_supplement/0211856637213-au-pays-merveilleux-des-chefs-doeuvre-de-la-tefaf-2071193.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2017/03/10/2071193_au-pays-merveilleux-des-chefs-doeuvre-de-la-tefaf-web-0211864035315.jpg"/>
+</item>
+
+<item>
+  <title>De l'usufruit au quasi-usufruit, des questions à se poser</title>
+  <description>ARLETTE DARMON Notaire à Paris, présidente du Groupe Monassier</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Arlette Darmon</dc:creator>
+  <pubDate>Fri, 10 Mar 2017 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20170310/lec2_supplement/0211860980411-de-lusufruit-au-quasi-usufruit-des-questions-a-se-poser-2071184.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2017/03/10/2071184_de-lusufruit-au-quasi-usufruit-des-questions-a-se-poser-web-0211864035206.jpg"/>
+</item>
+
+<item>
+  <title>Eric Trappier PDG de Dassault Aviation</title>
+  <description>RESULTATS FINANCIERS : En 2016, Dassault Aviation affiche une baisse de 14 % de son chiffre d'affaires (3,58 milliards d'euros), et la marge opérationnelle comme le résultat net ajusté ont tous deux baissé. « Nous avons eu une baisse des livraisons de Falcon […], et nous sommes toujours à des...</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Olivier Harmant</dc:creator>
+  <pubDate>Fri, 10 Mar 2017 01:00:00 +0200</pubDate>
+  <category>Industrie - Services</category>
+  <link>http://www.lesechos.fr/industrie-services/air-defense/0211863312877-eric-trappier-pdg-de-dassault-aviation-2071294.php#xtor=RSS-37</link>
+</item>
+
+<item>
+  <title>La mémoire de l'eau</title>
+  <description>Suez a mis le prix pour développer sa clientèle industrielle dans l'eau.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Les Echos</dc:creator>
+  <pubDate>Fri, 10 Mar 2017 01:00:00 +0200</pubDate>
+  <category>Idées - Débats</category>
+  <link>http://www.lesechos.fr/idees-debats/crible/0211865062586-la-memoire-de-leau-2071185.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2017/03/10/2071185_0211864318418_web.jpg"/>
+</item>
+
+<item>
+  <title>Allumage numérique</title>
+  <description>Altran délivre un premier exercice en ligne avec sa trajectoire pluriannuelle.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Les Echos</dc:creator>
+  <pubDate>Fri, 10 Mar 2017 01:00:00 +0200</pubDate>
+  <category>Idées - Débats</category>
+  <link>http://www.lesechos.fr/idees-debats/crible/0211864895363-allumage-numerique-2071179.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2017/03/10/2071179_0211862251427_web.jpg"/>
+</item>
+
+<item>
+  <title>Johnny Hallyday</title>
+  <description>D'abord, Johnny fut l'idole des jeunes. Salut les copains. Puis, il est devenu celle des cheveux gris. Le voici mascotte de la France entière. Dans les mariages, en l'imitant, Jean-Pierre Raffarin fait un tabac. En 2009, déjà, tout le pays s'était retrouvé à son chevet, une hernie discale qui avait...</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Sabine Delanglade</dc:creator>
+  <pubDate>Fri, 10 Mar 2017 01:00:00 +0200</pubDate>
+  <category>Idées - Débats</category>
+  <link>http://www.lesechos.fr/idees-debats/en-vue/0211863918344-johnny-hallyday-2071192.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2017/03/10/2071192_johnny-hallyday-web-0211864444786.jpg"/>
+</item>
+
+<item>
+  <title>Dommage collatéral</title>
+  <description>Wall Street n'a pas encore de quoi saluer l'activisme de Carl Icahn chez AIG .</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Les Echos</dc:creator>
+  <pubDate>Fri, 10 Mar 2017 01:00:00 +0200</pubDate>
+  <category>Idées - Débats</category>
+  <link>http://www.lesechos.fr/idees-debats/crible/0211864963648-dommage-collateral-2071216.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2017/03/10/2071216_0211863871303_web.jpg"/>
+</item>
+</channel>
+</rss>
